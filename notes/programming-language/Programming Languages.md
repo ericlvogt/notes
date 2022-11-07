@@ -1,0 +1,19 @@
+# Programing Languages
+- C#
+- VB Visual Basic
+- VBA - Visual Basic for Applications
+- C++
+- C
+- Python
+- JavaScript
+- TypeScript - JavaScript with typing
+- Java
+- Scala
+- Go
+- Kotlin
+- PHP
+- Cobalt
+- SQL - Structured Query Language
+  - T-SQL - Transact SQL
+- Web Assembly
+- Assembly

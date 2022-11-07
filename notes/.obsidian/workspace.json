@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "703112a50fa43348",
+    "type": "split",
+    "children": [
+      {
+        "id": "a28e8d1ab0c532b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "478d74dd959862b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming-language/C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "51e2af4e42de4849",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c285a80717c1d3b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2fd497a458b0a82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming-language/C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8cb6493fae6d1421",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbbd2e1e9bbc943c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "842751ec0b374ca1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a119bb7db205c55",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "913b975d6f75af57",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "160577616e1644ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "710d7a902b23bbd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b057a95028eb8a92",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "programming-language/C.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "210a2065a4053362",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "programming-language/C.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2d4ed602f88f3a05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "22285b71d99cd263",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "programming-language/C.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6a119bb7db205c55",
+  "lastOpenFiles": [
+    "programming-language/C#.md",
+    "programming-language/JavaScript.md",
+    "programming-language/Programming Languages.md",
+    "programming-language/Python.md",
+    "programming-language/Ruby.md",
+    "Architecture Patterns.md",
+    "Code Styles.md",
+    "Database.md",
+    "Design Patterns.md",
+    "Inbox.md"
+  ]
+}
