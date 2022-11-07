@@ -1,0 +1,1 @@
+Inbox is where I can brain dump in one spot. The purpose is for this information to be transitory and to create new pages linked from the information created here. Or to link to existing pages.

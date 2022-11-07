@@ -4,48 +4,143 @@
     "type": "split",
     "children": [
       {
-        "id": "a28e8d1ab0c532b1",
+        "id": "7856ec441d2e886c",
         "type": "tabs",
         "children": [
           {
-            "id": "478d74dd959862b4",
+            "id": "879c32a3f374b7eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming-language/C.md",
+                "file": "inbox/2022-11-06.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "51e2af4e42de4849",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6c285a80717c1d3b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
-            "id": "b2fd497a458b0a82",
+            "id": "68eb105624969f88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming-language/C.md",
+                "file": "inbox/2022-11-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6aec9c944b69d2aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2022-11-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf0b65223fe52f39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2022-11-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ae05920be182178",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2022-11-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a1d8198479c4961",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2022-11-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a8b480e428e9734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Object-Relational Mapping (ORM).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94ce6ad2e77c8897",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2022-11-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db7272e9178f4944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2022-11-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c7438424e3c134a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2022-11-06.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3d9a48c61e49352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2022-11-06.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -91,8 +186,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -112,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programming-language/C.md",
+                "file": "inbox/2022-11-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming-language/C.md",
+                "file": "inbox/2022-11-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming-language/C.md"
+                "file": "inbox/2022-11-06.md"
               }
             }
           }
@@ -163,17 +257,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6a119bb7db205c55",
+  "active": "d3d9a48c61e49352",
   "lastOpenFiles": [
-    "programming-language/C#.md",
-    "programming-language/JavaScript.md",
-    "programming-language/Programming Languages.md",
-    "programming-language/Python.md",
-    "programming-language/Ruby.md",
+    "Artificial Intelligence.md",
     "Architecture Patterns.md",
-    "Code Styles.md",
-    "Database.md",
-    "Design Patterns.md",
-    "Inbox.md"
+    "Global Unique Identifier (GUID).md",
+    "inbox/2022-11-06.md",
+    "inbox/_inbox.md",
+    "Computer Vision.md",
+    "Heuristics.md",
+    "Version Control.md",
+    "Quantum Computing.md",
+    "Security.md"
   ]
 }
