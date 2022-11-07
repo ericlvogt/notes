@@ -4,143 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7856ec441d2e886c",
+        "id": "6c252c2d0ff95857",
         "type": "tabs",
         "children": [
           {
-            "id": "879c32a3f374b7eb",
+            "id": "4b4ae67fe2eb4b34",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-11-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68eb105624969f88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-11-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6aec9c944b69d2aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-11-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf0b65223fe52f39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-11-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8ae05920be182178",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-11-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a1d8198479c4961",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-11-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a8b480e428e9734",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Object-Relational Mapping (ORM).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94ce6ad2e77c8897",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-11-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "db7272e9178f4944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-11-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c7438424e3c134a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-11-06.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3d9a48c61e49352",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-11-06.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2022-11-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2022-11-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "inbox/2022-11-06.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -257,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d3d9a48c61e49352",
+  "active": "842751ec0b374ca1",
   "lastOpenFiles": [
-    "Artificial Intelligence.md",
-    "Architecture Patterns.md",
-    "Global Unique Identifier (GUID).md",
-    "inbox/2022-11-06.md",
-    "inbox/_inbox.md",
-    "Computer Vision.md",
-    "Heuristics.md",
+    "programming-language/Programming Languages.md",
+    "programming-language/CSharp.md",
+    "programming-language/JavaScript.md",
+    "Block Chain.md",
+    "Web 3.md",
+    "Object-Relational Mapping (ORM).md",
+    "Polymorphism.md",
     "Version Control.md",
-    "Quantum Computing.md",
-    "Security.md"
+    "Security.md",
+    "Quantum Computing.md"
   ]
 }

@@ -1,11 +1,11 @@
-# Programing Languages
-- C#
+- [[CSharp]] C#
 - VB Visual Basic
 - VBA - Visual Basic for Applications
 - C++
 - C
-- Python
-- JavaScript
+- [[Python]]
+- [[Ruby]]
+- [[JavaScript]]
 - TypeScript - JavaScript with typing
 - Java
 - Scala
