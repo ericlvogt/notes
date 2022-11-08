@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6c252c2d0ff95857",
+        "id": "8b8f0580d3691583",
         "type": "tabs",
         "children": [
           {
-            "id": "4b4ae67fe2eb4b34",
+            "id": "0e04f4f47c238397",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2022-11-07.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "inbox/2022-11-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "inbox/2022-11-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "inbox/2022-11-07.md"
+              }
             }
           }
         ]
@@ -128,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "842751ec0b374ca1",
+  "active": "0e04f4f47c238397",
   "lastOpenFiles": [
-    "programming-language/Programming Languages.md",
-    "programming-language/CSharp.md",
+    "programming-language/Python.md",
+    "programming-language/Dart.md",
+    "Architecture Patterns.md",
+    "Micro Service Architecture.md",
+    "API Gateway.md",
+    "programming-language/Swift.md",
+    "Test Code.md",
+    "inbox/2022-11-07.md",
     "programming-language/JavaScript.md",
-    "Block Chain.md",
-    "Web 3.md",
-    "Object-Relational Mapping (ORM).md",
-    "Polymorphism.md",
-    "Version Control.md",
-    "Security.md",
-    "Quantum Computing.md"
+    "inbox/_inbox.md"
   ]
 }
