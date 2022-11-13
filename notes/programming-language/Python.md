@@ -1,8 +1,8 @@
-# Python
-## Libraries
-- SQLAlchemy - ORM
+# Libraries
+- SQLAlchemy - [[Object-Relational Mapping (ORM)]]
 - Pandas
 - NumPy
 - TensorFlow
-## Package manager
+- Flask
+# Package manager
 - PIP

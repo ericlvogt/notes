@@ -1,15 +1,19 @@
-# JavaScript
 The language everything is written in
-## Libraries
+# Libraries
 - React
     - hooks
 - Redux
 - jQuery
 - Angular
 
-## Package Managers
+# Package Managers
 - npm - node package manager
 
-## Test Frameworks
+# Test Frameworks
 - Mocha
 - Jest
+# Operators
+- Spread operator
+```
+let newArray = [...array, newNode]
+```

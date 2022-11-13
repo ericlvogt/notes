@@ -1,8 +1,8 @@
 # C\#
-## Summary
+# Summary
 Microsoft's previously proprietary object-oriented complied language
 
-## Libraries
+# Libraries
 - Entity Framework
 - PDF Lib
 - Closed XML
@@ -12,16 +12,29 @@ Microsoft's previously proprietary object-oriented complied language
 - ASP.NET Core
 - Ninject
 
-### Progression of Frameworks
+# Progression of Frameworks
+Microsoft has been releasing new .NET frameworks to code in. The progression from oldest to newest is:
 - .NET Framework
 - .NET Core
 - .NET 5.0
 - .NET 6.0
 
-## Package Manager
+# Package Manager
 - NuGet
 
-## Test Frameworks
+# Test Frameworks
 - NUnit
 - XUnit
 - MSTest
+# Operators
+```
+//Null Coalesing
+//Returns resultIfNull if source is null
+string test = source ?? resultIfNull;
+
+//Ternary
+string test = condition ? resultIfTrue : resultIfFalse;
+
+//Null conditional Operator
+string test = object?.Property;
+```
