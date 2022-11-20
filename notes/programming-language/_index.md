@@ -3,12 +3,14 @@
 - VBA - Visual Basic for Applications
 - C++
 - C
+- [[Dart]]
 - [[Python]]
 - [[Ruby]]
 - [[JavaScript]]
-- TypeScript - JavaScript with typing
+- [[TypeScript]] - JavaScript with typing
 - Java
 - Scala
+- [[Swift]]
 - Go
 - Kotlin
 - PHP

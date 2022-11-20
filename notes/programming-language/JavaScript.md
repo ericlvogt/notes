@@ -7,6 +7,9 @@ The language everything is written in
 - jQuery
 - Angular
 - eslint - nice [[Code Linter]]
+- Vite
+- Express.js - build out [[Representational State Transfer (REST)]]
+- 
 
 # Package Managers
 - npm - node package manager
@@ -16,6 +19,9 @@ The language everything is written in
 - Jest
 
 # Language Details
+
+## Closure
+[[Closure]]
 
 ## Null and Undefined
 ```
