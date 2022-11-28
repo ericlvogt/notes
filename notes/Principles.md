@@ -6,6 +6,7 @@ Keep It Simple Stupid
 ## YAGNI
 You Aren't Gonna Need It!
 ## Composition Over Inheritance
+## Make it Work, Make it Right, Make it Fast
 ## SOLID
 ### Single-Responsibility
 ### Open-Closed Principle
