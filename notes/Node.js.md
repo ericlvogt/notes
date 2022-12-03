@@ -1,0 +1,1 @@
+Runtime environment for [[JavaScript]] allowing js to run outside of a browser (e.g. back end server) allowing developers to write a [[Full Stack]] using only [[JavaScript]]

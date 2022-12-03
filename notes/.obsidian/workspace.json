@@ -4,215 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4f0ade89cf14ce6f",
+        "id": "deaa23a496a6ae6e",
         "type": "tabs",
         "children": [
           {
-            "id": "ab1ae2690fdba835",
+            "id": "b4529f98a82cda0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming-paradigms/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d73ede926ae7760",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming-paradigms/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fd7e1c7547ba7bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code-terminology/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92dc158a42a4cd68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code-terminology/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d88bb2bcb27e1e9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code-terminology/_index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f6801040f19e8ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "code-terminology/Closure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80e3a1b3d6e05807",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "programming-language/JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8c4b0219f590967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture Patterns.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7656d0ed84a7956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-11-20.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33174711c396a667",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-11-26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1f77072b4dd0139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-11-26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fcc613e0d3a48ab4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35cbaeaef32939a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-11-26.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1d18c387c76eb7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-11-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "785ebb8caff55cec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-11-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3b5a03c4f290b2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-11-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "49acddcbb25f2920",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FireBase.md",
+                "file": "inbox/2022-12-03.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fire",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -279,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FireBase.md",
+                "file": "inbox/2022-12-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FireBase.md",
+                "file": "inbox/2022-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FireBase.md"
+                "file": "inbox/2022-12-03.md"
               }
             }
           }
@@ -330,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49acddcbb25f2920",
+  "active": "b4529f98a82cda0f",
   "lastOpenFiles": [
-    "Backend as a Service Baas.md",
-    "FireBase.md",
-    "Ideas for New Projects.md",
-    "inbox/2022-11-27.md",
-    "Version Control.md",
-    "inbox/2022-11-26.md",
-    "Blazor.md",
-    "inbox/_inbox.md",
-    "No-SQL.md",
-    "Database.md"
+    "inbox/2022-12-03.md",
+    "Cache.md",
+    "Function as a Service (FaaS).md",
+    "Software as a Service (SaaS).md",
+    "Backend as a Service (BaaS).md",
+    "Encapsulation.md",
+    "Coupling.md",
+    "Dependency.md",
+    "Abstraction.md",
+    "Interface.md"
   ]
 }
