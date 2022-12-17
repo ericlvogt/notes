@@ -1,5 +1,6 @@
 - [[CSharp]] C#
 - VB Visual Basic
+- VBScript
 - VBA - Visual Basic for Applications
 - C++
 - C

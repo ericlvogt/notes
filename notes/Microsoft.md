@@ -1,5 +1,5 @@
 Company founded by Bill Gates gaining original fame for developing Windows [[Operating System (OS)]] which develops many software products including
-- [[_ .NET]]
+- [[dotnet (.NET)]]
 - [[TypeScript]]
 - [[CSharp]]
 - [[FSharp]]

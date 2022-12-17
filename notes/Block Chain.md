@@ -1,1 +1,4 @@
-Non Fungible Tokens (NFT)
+[[Non Fungible Tokens (NFT)]]
+[[Cryptocurrency]]
+[[Web 3]]
+

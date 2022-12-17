@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "deaa23a496a6ae6e",
+        "id": "70dfd2e2519a2a35",
         "type": "tabs",
         "children": [
           {
-            "id": "b4529f98a82cda0f",
+            "id": "3f61d3a082ead66e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-12-03.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2022-12-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2022-12-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "inbox/2022-12-03.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -137,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b4529f98a82cda0f",
+  "active": "3f61d3a082ead66e",
   "lastOpenFiles": [
-    "inbox/2022-12-03.md",
-    "Cache.md",
-    "Function as a Service (FaaS).md",
-    "Software as a Service (SaaS).md",
-    "Backend as a Service (BaaS).md",
-    "Encapsulation.md",
-    "Coupling.md",
-    "Dependency.md",
-    "Abstraction.md",
-    "Interface.md"
+    "CRUD.md",
+    "inbox/2022-12-16.md",
+    "MarkDown.md",
+    "Yet Another Markup Language (YAML).md",
+    "Terraform.md",
+    "Infrastructure as Code (IaC).md",
+    "Infrastructure as a Service (IaaS).md",
+    "programming-language/_index.md",
+    "OpenAI.md",
+    "Svelte.md"
   ]
 }

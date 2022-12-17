@@ -1,4 +1,3 @@
-# C\#
 # Summary
 Microsoft's previously proprietary object-oriented complied language
 
