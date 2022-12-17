@@ -1,0 +1,1 @@
+Maintaining your own machines on premisis of your office or home. This means you are responsible for all maintenance, security, and infrastructure to support servers. This is an alternative approach to [[Cloud Computing]].

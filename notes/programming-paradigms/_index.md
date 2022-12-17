@@ -1,6 +1,0 @@
-- [[Declaritive]]
-- [[Imperitive]]
-- [[Procedural]]
-- [[Object-Oriented]]
-- [[Functional Programming]]
-- 

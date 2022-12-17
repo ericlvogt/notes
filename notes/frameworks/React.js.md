@@ -1,0 +1,1 @@
+Developed by [[Meta (Facebook)]] a application [[Framework]] for [[JavaScript]]  or [[TypeScript]]

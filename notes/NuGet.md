@@ -1,1 +1,0 @@
-[[Package Manger]] for [[dotnet (.NET)]]

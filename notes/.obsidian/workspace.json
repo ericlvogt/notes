@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "70dfd2e2519a2a35",
+        "id": "28c0ac2e3de880ea",
         "type": "tabs",
         "children": [
           {
-            "id": "3f61d3a082ead66e",
+            "id": "88a9efcfac4d5ea4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "programming-paradigms/Procedural.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 330.5
   },
   "right": {
     "id": "160577616e1644ed",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "programming-paradigms/Procedural.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "programming-paradigms/Procedural.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "programming-paradigms/Procedural.md"
+              }
             }
           }
         ]
@@ -128,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3f61d3a082ead66e",
+  "active": "88a9efcfac4d5ea4",
   "lastOpenFiles": [
-    "CRUD.md",
-    "inbox/2022-12-16.md",
-    "MarkDown.md",
-    "Yet Another Markup Language (YAML).md",
-    "Terraform.md",
-    "Infrastructure as Code (IaC).md",
-    "Infrastructure as a Service (IaaS).md",
-    "programming-language/_index.md",
-    "OpenAI.md",
-    "Svelte.md"
+    "programming-paradigms/Object-Oriented.md",
+    "programming-paradigms/Imperitive.md",
+    "programming-paradigms/Functional Programming.md",
+    "programming-paradigms/Declaritive.md",
+    "programming-paradigms/CRUD.md",
+    "architecture/Single Page Application (SPA).md",
+    "architecture/Micro Service Architecture.md",
+    "architecture/Server Side Rendering (SSR).md",
+    "architecture/Design Patterns.md",
+    "architecture/Containers.md"
   ]
 }

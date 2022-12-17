@@ -1,7 +1,0 @@
-- Visual Studio
-- Visual Studio Code
-- Intellij
-- Eclipse
-- Vim
-- XCode
-- PyCharm
