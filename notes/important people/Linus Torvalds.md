@@ -1,0 +1,1 @@
+Creator of [[Linux]] and [[Git]]

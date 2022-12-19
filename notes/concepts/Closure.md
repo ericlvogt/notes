@@ -1,4 +1,4 @@
-I've only seen this used in [[JavaScript]]
+I've only seen this used in [[JavaScript (JS)]]
 
 When a nested function is declared a closure is created to include all the objects declared in the same scope as the nested function declaration
 ```

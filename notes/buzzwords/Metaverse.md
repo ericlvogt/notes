@@ -1,0 +1,1 @@
+Concept of an online world parallel to ours where everything is run distrubuted using the [[Web 3]] technology. Visions I've seen use [[Virtual Reality]] to allow users to enter this universe,

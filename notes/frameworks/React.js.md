@@ -1,1 +1,1 @@
-Developed by [[Meta (Facebook)]] a application [[Framework]] for [[JavaScript]]  or [[TypeScript]]
+Developed by [[Meta (Facebook)]] a application [[Framework]] for [[JavaScript (JS)]]  or [[TypeScript]]

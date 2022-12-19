@@ -1,0 +1,1 @@
+Building a program typically refers to transforming the code written by a developer into something that can be executed. This can include [[Compile|compiling]], fetching [[Dependency|dependencies]], and [[Transpile|transpiling]].
