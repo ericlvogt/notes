@@ -4,30 +4,215 @@
     "type": "split",
     "children": [
       {
-        "id": "a7a919c8fa8bed1b",
+        "id": "c5852dc55e5303e6",
         "type": "tabs",
         "children": [
           {
-            "id": "ba1dfcb53e24ac90",
+            "id": "8e461bc3c05a39d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2022-12-18.md",
+                "file": "inbox/2022-12-28.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2a834b8932838b5c",
+            "id": "3cabc115be197088",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2022-12-28.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5767fcb1bff32192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B-Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6fa9ef381743e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Comma Separated Values (CSV).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0720366384bed623",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript Object Notation (JSON).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c23348473dd9f068",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "eXtensible Markup Language (XML).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f4e12f14b879c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shopify.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "05271fd359eb8098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enterprise Content Mangagement (ECM).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "86c7603b35390953",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Content Management (WCM).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "532c34d5819b596a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0db8496c32bf82cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Umbraco.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "721a1395c0bd9f1f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Joomla.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a894ec0fe0b1db52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIX.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f255952abc753e49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SquareSpace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e56fabc4b0d0c002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drupal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01120c97abfa667f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WordPress.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd366d73eaa3199d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Content Management System (CMS).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2022-12-18.md",
+                "file": "inbox/2022-12-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2022-12-18.md",
+                "file": "inbox/2022-12-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/2022-12-18.md"
+                "file": "inbox/2022-12-28.md"
               }
             }
           }
@@ -144,17 +329,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ba1dfcb53e24ac90",
+  "active": "3cabc115be197088",
   "lastOpenFiles": [
-    "Clojure.md",
-    "inbox/2022-12-18.md",
-    "Interpreted Language.md",
-    "Compiled Language.md",
-    "Just In Time Compilation (JIT).md",
-    "Compile.md",
-    "tools/Babel.md",
-    "ECMAScript.md",
-    "European Computer Manufacturers Association (ECMA).md",
-    "Transpile.md"
+    "B-Tree.md",
+    "inbox/2022-12-28.md",
+    "Comma Separated Values (CSV).md",
+    "JavaScript Object Notation (JSON).md",
+    "eXtensible Markup Language (XML).md",
+    "What You See Is What You Get (WYSIWYG).md",
+    "Untitled 1.md",
+    "Shopify.md",
+    "Enterprise Content Mangagement (ECM).md",
+    "Web Content Management (WCM).md"
   ]
 }
