@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8494a6bb6767103d",
+        "id": "cf99ef15db47f9f7",
         "type": "tabs",
         "children": [
           {
-            "id": "9a7fa992e990b886",
+            "id": "d09cec1bf4ff3e78",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2022-12-31.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "XML",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2022-12-31.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2022-12-31.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "inbox/2022-12-31.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,17 +129,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "842751ec0b374ca1",
+  "active": "d09cec1bf4ff3e78",
   "lastOpenFiles": [
     "inbox/2022-12-31.md",
-    "cloud/Cloud Computing.md",
-    "development/Development Strategies.md",
-    "Kanban.md",
-    "Scrum.md",
-    "Agile.md",
-    "development/Testing.md",
-    "development/Test Code.md",
-    "development/Open Source.md",
-    "development/On Premisis (On Prem).md"
+    "Transact SQL (T-SQL).md",
+    "Structured Query Language (SQL).md",
+    "ChatGPT.md",
+    "VBScript.md",
+    "Cloud Computing.md",
+    "Server.md",
+    "Function as a Service (FaaS).md",
+    "Service.md",
+    "Protocol.md"
   ]
 }

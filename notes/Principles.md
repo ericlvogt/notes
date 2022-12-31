@@ -1,0 +1,12 @@
+To live by!
+[[Don't Repeat Yourself (DRY)]]
+[[Keep It Simple Stupid (KISS)]]
+[[You Aren't Gonna Need It! (YAGNI)]]
+[[Composition Over Inheritance]]
+[[Make it Work, Make it Right, Make it Fast]]
+[[SOLID Principles]]
+[[Single-Responsibility]]
+[[Open-Closed Principle]]
+[[Liskov Substitution]]
+[[Interface Segregation]]
+[[Dependency Inversion]]
