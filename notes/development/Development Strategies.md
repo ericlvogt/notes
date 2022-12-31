@@ -1,2 +1,3 @@
-- Agile
-- Scrum
+- [[Agile]]
+- [[Scrum]]
+- [[Kanban]]

@@ -1,0 +1,1 @@
+A memory store for part of a data set to make it more readily available. For instance storing the top 100 most queried records in a cache so when a client looks for that record the cache can return the result instead of looking in the database. This saves time having to look for the data in a database.
