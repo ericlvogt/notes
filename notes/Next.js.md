@@ -1,2 +1,2 @@
-[[Web Framework]]
 [[JavaScript (JS)]]
+[[Framework]]

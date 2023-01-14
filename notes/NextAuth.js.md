@@ -1,0 +1,1 @@
+Authentication solution for [[Next.js]]

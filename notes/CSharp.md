@@ -1,5 +1,7 @@
 # Summary
-Microsoft's previously proprietary object-oriented complied language
+[[Microsoft]] 
+[[Programming Language]]
+[[Object-Oriented Programming (OOP)]] 
 
 # Libraries
 - Entity Framework

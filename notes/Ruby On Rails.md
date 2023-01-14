@@ -1,3 +1,3 @@
 [[Ruby]]
-[[Framework]]
+[[Web Framework]]
 [[Model-View-Controller (MVC)]]
