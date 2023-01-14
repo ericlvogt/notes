@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1a869159dbd152b",
+        "id": "4f80a8e74a017b71",
         "type": "tabs",
         "children": [
           {
-            "id": "4be234f01f2b4e18",
+            "id": "84c184828c5d8c7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "d59555ff0aa55643",
+            "id": "3e00b4c09fbf48cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,43 +32,7 @@
             }
           },
           {
-            "id": "02f03dd7e8a2a3eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Package.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5d2ee7ab16b9a03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2023-01-13.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9efef1c300a91256",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Container.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f61883d33ecc67ca",
+            "id": "158bf07f9dbdadd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,19 +44,19 @@
             }
           },
           {
-            "id": "12fcd6913c5c13e1",
+            "id": "efd80607dd2a4efa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "Swarm.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "254f872a4169ae91",
+            "id": "b29688719296ecf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -104,19 +68,103 @@
             }
           },
           {
-            "id": "cfb917954321f8b5",
+            "id": "e0161dae58804311",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Package.md",
+                "file": "inbox/2023-01-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fe29b1dc56d78c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2023-01-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1225778043564e66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2023-01-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ef3a3b86d4b02fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Container Orchestration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea018cfb64549c13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electron.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1afd80ffc5f24d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chromium.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a65e3791be23142",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Browser Engine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d9ece22e8396cb30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Desktop Application.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -244,17 +292,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d59555ff0aa55643",
+  "active": "1225778043564e66",
   "lastOpenFiles": [
-    "Package Manger.md",
-    "Package.md",
+    "Untitled 5.canvas",
+    "Elastic Container Service (ECS).md",
     "inbox/2023-01-14.md",
-    "Untitled 3.canvas",
-    "inbox/2023-01-13.md",
-    "Container.md",
+    "Nomad.md",
     "Kubernetes.md",
-    "Docker.md",
-    "Apache Kafka.md",
-    "Single Page Application (SPA).md"
+    "Container Orchestration.md",
+    "Swarm.md",
+    "Electron.md",
+    "Chromium.md",
+    "Web Browser Engine.md"
   ]
 }
