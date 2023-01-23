@@ -4,167 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4f80a8e74a017b71",
+        "id": "e51b3c683e24a730",
         "type": "tabs",
         "children": [
           {
-            "id": "84c184828c5d8c7e",
+            "id": "631905c8bb801a65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2023-01-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e00b4c09fbf48cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2023-01-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "158bf07f9dbdadd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2023-01-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efd80607dd2a4efa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Swarm.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b29688719296ecf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2023-01-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0161dae58804311",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2023-01-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fe29b1dc56d78c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2023-01-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1225778043564e66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2023-01-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ef3a3b86d4b02fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Container Orchestration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ea018cfb64549c13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electron.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1afd80ffc5f24d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chromium.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a65e3791be23142",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Browser Engine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9ece22e8396cb30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desktop Application.md",
+                "file": "Training Ideas.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Objec",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -231,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2023-01-14.md",
+                "file": "Training Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2023-01-14.md",
+                "file": "Training Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -271,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/2023-01-14.md"
+                "file": "Training Ideas.md"
               }
             }
           }
@@ -292,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1225778043564e66",
+  "active": "631905c8bb801a65",
   "lastOpenFiles": [
+    "inbox/2023-01-23.md",
+    "SSL TLS Certificate.md",
+    "SSL/TLS Certificate.md",
+    "GraphQL.md",
+    "NoSQL.md",
+    "Untitled 6.canvas",
+    "inbox/2023-01-14.md",
     "Untitled 5.canvas",
     "Elastic Container Service (ECS).md",
-    "inbox/2023-01-14.md",
-    "Nomad.md",
-    "Kubernetes.md",
-    "Container Orchestration.md",
-    "Swarm.md",
-    "Electron.md",
-    "Chromium.md",
-    "Web Browser Engine.md"
+    "Nomad.md"
   ]
 }

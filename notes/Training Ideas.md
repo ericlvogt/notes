@@ -1,0 +1,10 @@
+- Azure DevOps
+	- Learn how we could use the devops platform to automate our builds, deploys, testing, and statistics - Straight from continuous improvement
+- Azure Cloud
+	- Learn how we could port our application over to the cloud
+	- Would it be helpful to first containerize
+	- Would we need to convert our applications first?
+		- To a web application?
+		- Containerize?
+- Interpretable Machine Learning
+	- 
