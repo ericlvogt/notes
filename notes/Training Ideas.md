@@ -1,10 +1,17 @@
-- Azure DevOps
+- [[Azure DevOps]] - Since we are moving to DevOps 2022 - Continuation of AZ400
 	- Learn how we could use the devops platform to automate our builds, deploys, testing, and statistics - Straight from continuous improvement
-- Azure Cloud
+	- Package Management using [[Azure Artifacts]]
+	- I want to try it out using Azure Dev Ops Labs
+- [[Azure]] - Cloud - AZ Course ?
 	- Learn how we could port our application over to the cloud
-	- Would it be helpful to first containerize
+	- How would you set up different environments
+	- How would it scale?
+	- How much would it cost?
 	- Would we need to convert our applications first?
 		- To a web application?
-		- Containerize?
-- Interpretable Machine Learning
-	- 
+		- Containerize [[Docker]]?
+- Working Effectively with Legacy Code - Book by Michael Feathers
+	- [Interesting Blog Post](https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/)
+- Interpretable [[Machine Learning]]
+	- Book I was recommended by a data scientist to lean more about machine learning
+- I'd love to learn [[Solidity]] or [[Move]] to start playing around with [[Block Chain]]
