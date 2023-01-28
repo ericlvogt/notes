@@ -1,1 +1,1 @@
-Google's rival to [[React.js]]
+[[Google]] rival to [[React.js]]
