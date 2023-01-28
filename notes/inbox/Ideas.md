@@ -1,0 +1,5 @@
+- [[Docker]] project to learn containers - [Repo](https://github.com/ericlvogt/docker-tutorial)
+- What should I do - AI application to tell people what to do with their day. Maybe propose a schedule for them to follow. Monitize by getting paid for suggesting places to go or things to do
+- What should I eat tonight - AI application to help you pick what to cook or where to go for dinner
+- Pick a hobby or a job - something to help you choose what to do
+- 
