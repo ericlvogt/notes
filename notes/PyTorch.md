@@ -1,5 +1,5 @@
 [[Python]]
 [[Meta (Facebook)]]
-[[Artificial Intelligence]]
+[[Artificial Intelligence (AI)]]
 [[Linux Foundation]]
 [[Framework]]
