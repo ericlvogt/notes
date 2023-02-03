@@ -1,2 +1,4 @@
+[[Open Source]]
+[[DevOps]]
 [[Continuous Integration (CI)]]
-[[Continuous Delivery (CD)]]
+[[Continuous Deployment (CD)]]

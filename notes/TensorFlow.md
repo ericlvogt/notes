@@ -1,2 +1,2 @@
 [[Python]]
-[[Artificial Intelligence]]
+[[Artificial Intelligence (AI)]]
