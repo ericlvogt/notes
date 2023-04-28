@@ -1,0 +1,1 @@
+[[Amazon]]'s alternative to [[GitHub Copilot]]
