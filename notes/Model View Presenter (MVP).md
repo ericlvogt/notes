@@ -1,0 +1,1 @@
+**Presenter** is a component that only exists in the MVP model. Presenter gets the input from the view component and processes the data with the help of the model.
