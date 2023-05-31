@@ -1,1 +1,0 @@
-**ViewModel** is exclusive to MVVM pattern. This is an abstraction of the view layer and also acts as a wrapper for the model data

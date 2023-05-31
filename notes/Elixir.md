@@ -1,3 +1,3 @@
 [[Programming Language]]
-Built ontop of the [[Erlang]] language
+Built on top of the [[Erlang]] language
 Runs on the BEAM virtual machine
