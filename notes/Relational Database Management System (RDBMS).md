@@ -1,0 +1,1 @@
+A type of [[Database Management System (DBMS)]] which supports relationships
