@@ -1,0 +1,1 @@
+Doing computations on [[Graphical Processing Unit (GPU)]] typically handled by the [[Central Processing Unit (CPU)]]. This allows for more parallel computations since a GPU has more cores than a CPU
