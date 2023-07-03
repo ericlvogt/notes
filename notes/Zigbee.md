@@ -1,1 +1,1 @@
-Low power wireless mesh network standard targetted at battery=powered devices
+Low power wireless mesh network standard targeted at battery=powered devices
