@@ -1,1 +1,1 @@
-[[Google]]'s unified [[Platform]] for creating deploying and managing [[Machine Learning]] models.
+[[Google]]'s unified [[Platform]] for creating deploying and managing [[Machine Learning (ML)]] models.

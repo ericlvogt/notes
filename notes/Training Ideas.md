@@ -14,7 +14,7 @@
 	- [Interesting Blog Post](https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/)
 	- Learn a systematic approach to improve legacy code
 - Learn more about the buzz in tech. Goal of understanding the technology and its limits to help identify possible use cases
-	- Interpretable [[Machine Learning]]
+	- Interpretable [[Machine Learning (ML)]]
 		- Book I was recommended by a data scientist to lean more about machine learning
 	- I'd love to learn [[Solidity]] or [[Move]] to start playing around with [[Block Chain]]
 - [[Visual Studio]] training to learn how to use the IDE more effectively. What plugins tools may improve efficiency

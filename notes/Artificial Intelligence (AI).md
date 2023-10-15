@@ -1,3 +1,3 @@
 Any behaviour mimicking human intelligence
 [[Neural Network (NN)]]
-[[Machine Learning]]
+[[Machine Learning (ML)]]
