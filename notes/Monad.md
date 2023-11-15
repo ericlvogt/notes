@@ -1,0 +1,1 @@
+Similar to a decorator specifies how to handle functions applied to a value
