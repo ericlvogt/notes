@@ -1,0 +1,1 @@
+Distributed processing engine for stateful computations over data streams
