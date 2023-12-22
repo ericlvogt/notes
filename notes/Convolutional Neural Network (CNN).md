@@ -1,0 +1,1 @@
+Traverses data using a kernel with the goal of identifying significant features/anomalies of the base data set. The resulting convoluted data is typically reduced by some aggregation function then fed into a neural network.
