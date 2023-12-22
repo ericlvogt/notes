@@ -1,1 +1,1 @@
-Columnar [[Database]]
+[[Column-oriented Database]]
