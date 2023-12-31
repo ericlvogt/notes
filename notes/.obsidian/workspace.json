@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b39ba9903f9f5493",
+        "id": "f9aef06de5ec6ea4",
         "type": "tabs",
         "children": [
           {
-            "id": "a5b29443ae5ae836",
+            "id": "0040f1eaf4f21702",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "notes/.obsidian/app.json",
-                "staged": false
+                "file": "strategies/Cloud Platform.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "strategies/Cloud Platform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "strategies/Cloud Platform.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "strategies/Cloud Platform.md"
+              }
             }
           },
           {
@@ -132,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,33 +153,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b08179ab5560d14d",
+  "active": "0040f1eaf4f21702",
   "lastOpenFiles": [
-    "inbox/2023-12-22.md",
-    "inbox/2023-12-17.md",
-    "Statically Typed.md",
-    "Shiny.md",
-    "Row-Oriented.md",
-    "README.md",
-    "Presto.md",
-    "Optimized Row Columnar (ORC).md",
-    "OnLine Analytical Processing (OLAP).md",
-    "Nginx.md",
-    "Microstrategy.md",
-    "Logstash.md",
-    "Kibana.md",
-    "Key Value Store.md",
-    "Java Virtual Machine (JVM).md",
-    "Graph Neural Network (GNN).md",
-    "Graph Embedding (GE).md",
-    "Graph Database.md",
-    "Embedding (Machine Learning).md",
-    "Convolutional Neural Network (CNN).md",
-    "Column-oriented Database.md",
-    "Column-Oriented.md",
-    "Business Intelligence (BI).md",
-    "BigGraph.md",
-    "Apache Superset.md",
-    "Apache Pinot.md"
+    "strategies/Data Pipeline.md",
+    "strategies/Web Framework.md",
+    "strategies/Cloud Platform.md",
+    "strategies/Business Intelligence (BI).md",
+    "inbox/2023-12-30.md",
+    "Cloud Computing.md",
+    "inbox/2023-01-02.md",
+    "Web Development.md",
+    "WinAppSDK.md",
+    "Abstraction.md",
+    "strategies/Web Application.md",
+    "Apache Flink.md",
+    "strategies",
+    "Apache Druid.md",
+    "Apache Cassandra.md",
+    "Apache Beam.md",
+    "Apache Airflow.md",
+    "Apache Accumulo.md",
+    "Anyscale.md",
+    "Anthropic.md",
+    "Ansible.md",
+    "Angular.md",
+    "Platform.md",
+    "Grafana.md",
+    "Katib.md",
+    "Kubectl.md",
+    "AutoML.md"
   ]
 }
