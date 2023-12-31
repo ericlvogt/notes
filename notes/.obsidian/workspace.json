@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "e56607246effceb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9aef06de5ec6ea4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0040f1eaf4f21702",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "strategies/Cloud Platform.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4bc64c0fb323bbb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c045f2c47f47639",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c2589e42ab70fd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6da8ce600d3ba0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e1beca8bd817a0fb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "71f9ae5d1ca38a70",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5c51e2ce9a1cbff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2bc5aad7760ed879",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "strategies/Cloud Platform.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "640f8f0ce1d87c84",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "strategies/Cloud Platform.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b484eaafb1e29b71",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a6ae7cd941953c8b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "strategies/Cloud Platform.md"
+              }
+            }
+          },
+          {
+            "id": "b08179ab5560d14d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0040f1eaf4f21702",
+  "lastOpenFiles": [
+    "strategies/Data Pipeline.md",
+    "strategies/Web Framework.md",
+    "strategies/Cloud Platform.md",
+    "strategies/Business Intelligence (BI).md",
+    "inbox/2023-12-30.md",
+    "Cloud Computing.md",
+    "inbox/2023-01-02.md",
+    "Web Development.md",
+    "WinAppSDK.md",
+    "Abstraction.md",
+    "strategies/Web Application.md",
+    "Apache Flink.md",
+    "strategies",
+    "Apache Druid.md",
+    "Apache Cassandra.md",
+    "Apache Beam.md",
+    "Apache Airflow.md",
+    "Apache Accumulo.md",
+    "Anyscale.md",
+    "Anthropic.md",
+    "Ansible.md",
+    "Angular.md",
+    "Platform.md",
+    "Grafana.md",
+    "Katib.md",
+    "Kubectl.md",
+    "AutoML.md"
+  ]
+}
