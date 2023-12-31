@@ -1,1 +1,1 @@
-[[Object-Relational Mapping (ORM)]] [[CSharp]] [[Dot Net (.NET)]]
+[[Object-Relational Mapping (ORM)]] [[CSharp]] [[_.NET]]

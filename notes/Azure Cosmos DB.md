@@ -1,2 +1,3 @@
+#nosql-database #relational-database
 [[Database]]
-[[Azure]] fully managed [[NoSQL]] and [[Relational Database]] 
+[[Azure]] fully managed [[NoSQL Database]] and [[Relational Database]] 

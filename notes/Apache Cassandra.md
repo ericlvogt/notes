@@ -1,4 +1,5 @@
-[[NoSQL]] [[Database]]
+#nosql-database
+[[NoSQL Database]] [[Database]]
 [[Open Source]]
 [[Google]]
 [[Apache Software Foundation]]

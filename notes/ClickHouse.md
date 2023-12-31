@@ -1,1 +1,1 @@
-[[Column-oriented Database]]
+[[Column-Oriented Database]]

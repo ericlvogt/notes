@@ -1,3 +1,5 @@
 [[Programming Language]]
-[[Ruby On Rails]]
-[[RubyGems]]
+
+```dataview 
+	table without id file.inlinks where file.name = this.file.name
+```

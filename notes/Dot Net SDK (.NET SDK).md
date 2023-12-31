@@ -1,2 +1,2 @@
-[[Dot Net (.NET)]]
+[[_.NET]]
 [[Software Development Kit (SDK)]]

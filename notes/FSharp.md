@@ -1,3 +1,3 @@
 [[Programming Language]]
 [[Functional Programming]]
-One of the [[Dot Net (.NET)]]
+One of the [[_.NET]]

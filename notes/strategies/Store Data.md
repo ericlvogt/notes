@@ -1,0 +1,11 @@
+#object-storage 
+#relational-database 
+#nosql-database 
+#column-oriented-database 
+#key-value-store 
+#data-lake
+#data-warehouse 
+#data-lakehouse 
+#file-system 
+#file-format 
+#block-chain 

@@ -2,4 +2,4 @@
 - MariaDB
 - MSSQL Microsoft SQL
 - PostgresSQL
-- [[NoSQL]]
+- [[NoSQL Database]]
