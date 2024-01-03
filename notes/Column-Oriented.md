@@ -1,3 +1,4 @@
+#concept 
 As opposed to [[Row-Oriented]]. Data for a single property is stored together
 
 Column oriented

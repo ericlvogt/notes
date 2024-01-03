@@ -1,1 +1,2 @@
+#concept 
 In predictive analysis when an evolution in the system that causes degradation of model performance. It happens when the statistical properties of a system resulting in a [[Label]] change over time.

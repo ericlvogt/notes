@@ -1,3 +1,4 @@
+#concept 
 Zero downtime deployment strategy
 Alternative to [[Rolling Deployment]]
 [[Continuous Delivery (CD)]] Strategy

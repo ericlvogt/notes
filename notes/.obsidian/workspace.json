@@ -13,13 +13,230 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Application.md",
+                "file": "Code Linter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "811aaf75905c9d70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-01-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e10dfe96c83ea1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-01-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "710a6cfe7de2ea46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-01-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15ec87dd94a6fd66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-01-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f06a78c4ef231a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-01-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac3302ccf4d05257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-01-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b582486b011b4fdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-01-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "011740f25515f017",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GNU Compiler Collection (GCC).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbc09f2054d1529b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cucumber.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8e529a04f4fba0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inheritance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f9fe9c455c3730e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Low-Level Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f05c69535f9e0078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c68baadc943214e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "High-Level Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b273d12fcf88f9fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GNU Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a204bf5e55e705b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "940b00b6a921e553",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IEEE Computer Society.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0396c7dcbbd5f78c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graphical User Interface (GUI).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a119d80625646ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Static Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -48,7 +265,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#web-framework",
+                "query": "tag:#large-language-model-chat-bot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Application.md",
+                "file": "Cucumber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +319,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web Application.md",
+                "file": "Cucumber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +342,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web Application.md"
+                "file": "Cucumber.md"
               }
             }
           },
@@ -154,34 +371,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "964417cfb8a3b79c",
+  "active": "bbc09f2054d1529b",
   "lastOpenFiles": [
-    "Web Application 1.md",
-    "Web Application.md",
-    "Azure ML.md",
-    "Infrastructure as Code (IaC).md",
-    "Azure DevOps.md",
-    "DevOps.md",
-    "Cloud Platform.md",
-    "Business Intelligence (BI).md",
-    "AutoML.md",
-    "Block Chain.md",
-    "Desktop Application.md",
-    "strategies/Automate Deploying Solutions.md",
-    "strategies/Visualize and Analyze Data.md",
-    "strategies/Using Data to Automate.md",
-    "strategies/Store Data.md",
-    "strategies/Share Code.md",
-    "strategies/Send and Receive Data.md",
-    "strategies/Scale Compute.md",
-    "strategies/Host a Solution.md",
-    "strategies/eXtended Reality (XR).md",
-    "strategies/Deploy and Manage Distributed Resources.md",
-    "strategies/Create a Web Application.md",
-    "strategies/Create a Desktop Application.md",
-    "strategies/Collect and Transform Data.md",
-    "strategies/Automate Testing.md",
-    "_.NET.md",
+    "cshtml.md",
+    "Cucumber.md",
+    "Cyber Security.md",
+    "CSharp.md",
+    "Cryptocurrency.md",
+    "CRUD.md",
+    "Cross-Site Scripting (XSS).md",
+    "Cross-Site Request Forgery (CSRF).md",
+    "Cross Platform.md",
+    "Coupling.md",
+    "Convolutional Neural Network (CNN).md",
+    "Continuous Integration (CI).md",
+    "Continuous Deployment (CD).md",
+    "Continuous Delivery (CD).md",
+    "Content Management System (CMS).md",
+    "Content Delivery Network (CDN).md",
+    "Containers as a Service (CaaS).md",
+    "Container.md",
+    "Container Orchestration.md",
+    "Conda.md",
+    "Concept Drift.md",
+    "Computer Vision (CV).md",
+    "Composition Over Inheritance.md",
+    "Compute Unified Device Architecture (CUDA).md",
+    "Inheritance.md",
+    "Component Driven Development (CDD).md",
     "other",
     "programming languages",
     "strategies"
