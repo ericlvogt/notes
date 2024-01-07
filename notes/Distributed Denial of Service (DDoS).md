@@ -1,1 +1,2 @@
+#concept 
 A type of [[Denial of Service (DoS)]] attack where the attack source is a cooridinated by multiple machines. It is much harder to defend against because there is not a single source which can be shutdown.

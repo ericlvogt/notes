@@ -1,3 +1,4 @@
+#concept 
 Templated strategies to create elegant solutions to common problems. These are intended for software coding and architecture problems but it seems like they can be used beyond the realm of software.
 
 Good [website](https://refactoring.guru/design-patterns) documenting the gang of 4 design patterns.
