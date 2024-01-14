@@ -1,1 +1,1 @@
-[[GitHub Copilot]] competitor based on [[GPT2]]
+[[GitHub Copilot]] competitor based on [[GPT 2]]

@@ -4,16 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "e37f4122e4b3ca9d",
+        "id": "be9bc6f7fd883a51",
         "type": "tabs",
         "children": [
           {
-            "id": "90402eeaafa41c8e",
+            "id": "91c350f0fd089a1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "strategies/Automate Deploying Solutions.md",
+                "file": "Infrastructure as Code (IaC).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7fc4a6543aff0df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "String Interpolation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76f4a0839c30cb94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Swing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "strategies/Automate Deploying Solutions.md",
+                "file": "Infrastructure as Code (IaC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "strategies/Automate Deploying Solutions.md",
+                "file": "Infrastructure as Code (IaC).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "strategies/Automate Deploying Solutions.md"
+                "file": "Infrastructure as Code (IaC).md"
               }
             }
           },
@@ -154,34 +178,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90402eeaafa41c8e",
+  "active": "5c2589e42ab70fd2",
   "lastOpenFiles": [
-    "Design Pattern.md",
-    "Database Cluster.md",
-    "Dart.md",
-    "Shell.md",
+    "Infrastructure as a Service (IaaS).md",
+    "Industry 4.0.md",
+    "Imperitive Programming.md",
+    "IEEE Computer Society.md",
+    "ID Token.md",
+    "IBM MQ.md",
+    "Apache Kafka.md",
+    "HyperVisor or Virtual Machine Monitor (VMM).md",
+    "Hypertext Transport Protocol Secure (HTTPS).md",
+    "Hypertext Transport Protocol (HTTP).md",
+    "Hypertext Markup Language (HTML).md",
+    "Hyper-V.md",
     "Gluon.md",
-    "Global Unique Identifier (GUID).md",
-    "GitHub Copilot.md",
-    "GitHub Actions.md",
-    "GitHub.md",
-    "Gitflow.md",
-    "Git.md",
-    "Generative Pre-trained Transformer (GPT).md",
-    "Generative Adversarial Network (GAN).md",
-    "General Purpose Computing on GPU (GPGPU).md",
-    "Garbage Collection (GC).md",
-    "Game Engines.md",
-    "Fuzzy Logic.md",
-    "Functional Programming.md",
-    "Function as a Service (FaaS).md",
-    "Full Stack.md",
-    "FSharp.md",
-    "Front-End.md",
-    "Framework.md",
-    "Forward Propagation.md",
-    "Forking.md",
-    "Flyte.md",
+    "Hugging Face.md",
+    "High-Level Language.md",
+    "Heuristics.md",
+    "Hetzner.md",
+    "Helm.md",
+    "Hebbian Learning.md",
+    "Haskell.md",
+    "Hashing Algorithm.md",
+    "HashiCorp Configuration Language (HCL).md",
+    "String Interpolation.md",
+    "Hash-Based Message Authentication Code (HMAC).md",
+    "Hardware.md",
+    "Hadoop Distributed File System (HDFS).md",
     "other",
     "programming languages",
     "strategies"

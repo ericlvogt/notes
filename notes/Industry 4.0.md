@@ -1,1 +1,2 @@
+#concept
 Buzz word meaning the fourth industrial revolution. Incorporation of [[Internet of Things (IoT)]], [[Machine Learning (ML)]], and [[Cloud Computing]] into operations specifically for industrial applications.

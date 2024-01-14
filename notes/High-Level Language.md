@@ -1,0 +1,2 @@
+#concept 
+Meaning a [[Programming Language]] that has abstracted away implementation details and is typically compiled or interpreted to a lower level language that is translated to machine readable instructions. Typically things such as loops, memory allocation, etc. are abstracted away by a high level language allowing a developer to code without manually handling these details.
