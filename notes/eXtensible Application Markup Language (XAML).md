@@ -1,2 +1,2 @@
-#file-format 
+#text-format 
 [[eXtensible Markup Language (XML)]] based
