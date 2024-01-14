@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be9bc6f7fd883a51",
+        "id": "6eec24e309071db4",
         "type": "tabs",
         "children": [
           {
-            "id": "91c350f0fd089a1b",
+            "id": "0f1a4a615897ac82",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,81 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f288d577a04e4c5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "strategies/Analyze Logs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "703fce427ecddaa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Splunk.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f8a06c023e4810b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mobile Application.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "482a8fbee2b803e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plain Text File.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7fc4a6543aff0df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "String Interpolation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76f4a0839c30cb94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Swing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#deep-learning-framework",
+                "query": "tag:#build-system",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -158,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Splunk.md",
+                "file": "inbox/2024-01-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Splunk.md",
+                "file": "inbox/2024-01-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Splunk.md"
+                "file": "inbox/2024-01-14.md"
               }
             }
           },
@@ -227,34 +154,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "703fce427ecddaa6",
+  "active": "0f1a4a615897ac82",
   "lastOpenFiles": [
-    "strategies/Analyze Logs.md",
-    "Splunk.md",
+    "Engine.md",
     "inbox/2024-01-14.md",
+    "Machine Language.md",
+    "Machine Code.md",
+    "Lua.md",
+    "Low-Level Language.md",
     "Logstash.md",
     "Load Balancing.md",
     "LiteSpeed.md",
     "Liskov Substitution.md",
-    "Linux Foundation.md",
     "Linux.md",
-    "Linus Torvalds.md",
     "Lightweight Directory Access Protocol (LDAP).md",
     "Library.md",
+    "Linux Foundation.md",
     "LeetCode.md",
-    "Large Language Models (LLM).md",
-    "Laravel.md",
-    "LangChain.md",
-    "Label.md",
-    "Caffe.md",
-    "LAMP Stack.md",
-    "Kustomize.md",
-    "Kubernetes.md",
     "Kubeflow.md",
-    "Kubectl.md",
-    "Kotlin.md",
-    "Mobile Application.md",
-    "Knowledge Discovery and Data Mining (KDD).md",
+    "jQuery.md",
+    "JavaScript (JS).md",
+    "JavaFX.md",
+    "Java Virtual Machine (JVM).md",
+    "Java.md",
+    "Issue Tracking.md",
+    "ioS.md",
+    "Interpreter.md",
+    "Interpreted Language.md",
+    "Internet Protocol (IP).md",
     "other",
     "programming languages",
     "strategies"

@@ -1,4 +1,4 @@
-#organization #build-system
+#organization #build-automation
 
 [[JavaScript (JS)]]
 
