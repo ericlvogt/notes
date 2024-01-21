@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "6eec24e309071db4",
+        "id": "a1cf052e63c070e7",
         "type": "tabs",
         "children": [
           {
-            "id": "0f1a4a615897ac82",
+            "id": "6f8ad0a471168ffe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2024-01-14.md",
+                "file": "inbox/2024-01-16.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "386a3129e97b5579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Active Directory (AD).md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#build-system",
+                "query": "tag:#business-intelligence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +77,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 334.5
+    "width": 300
   },
   "right": {
     "id": "71f9ae5d1ca38a70",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-01-14.md",
+                "file": "inbox/2024-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-01-14.md",
+                "file": "inbox/2024-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,8 +127,8 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": false
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/2024-01-14.md"
+                "file": "inbox/2024-01-16.md"
               }
             }
           },
@@ -154,36 +167,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f1a4a615897ac82",
+  "active": "6f8ad0a471168ffe",
   "lastOpenFiles": [
-    "Engine.md",
-    "inbox/2024-01-14.md",
-    "Machine Language.md",
-    "Machine Code.md",
-    "Lua.md",
-    "Low-Level Language.md",
-    "Logstash.md",
-    "Load Balancing.md",
-    "LiteSpeed.md",
-    "Liskov Substitution.md",
-    "Linux.md",
-    "Lightweight Directory Access Protocol (LDAP).md",
-    "Library.md",
-    "Linux Foundation.md",
-    "LeetCode.md",
-    "Kubeflow.md",
-    "jQuery.md",
-    "JavaScript (JS).md",
-    "JavaFX.md",
-    "Java Virtual Machine (JVM).md",
-    "Java.md",
-    "Issue Tracking.md",
-    "ioS.md",
-    "Interpreter.md",
-    "Interpreted Language.md",
-    "Internet Protocol (IP).md",
-    "other",
-    "programming languages",
+    "Active Directory (AD).md",
+    "inbox/2024-01-16.md",
+    "Sigma.md",
+    "Preset.md",
+    "Cube.md",
+    "Carto.md",
+    "Spotfire.md",
+    "Si Su.md",
+    "Thought Spot.md",
+    "Tableau.md",
+    "Qlik.md",
+    "strategies/Visualize and Analyze Data.md",
+    "Azure B2C.md",
+    "strategies/Secure an Application.md",
+    "strategies/Using Data to Automate.md",
+    "strategies/Batch Processing Data.md",
+    "strategies/Automate Testing.md",
+    "strategies/Automate Deploying Solutions.md",
+    "strategies/Analyze Logs.md",
+    "Internet Information Services (IIS).md",
+    "Jenkins.md",
+    "Label.md",
+    "strategies/Store Data.md",
+    "Android.md",
+    "Active Record.md",
+    "strategies/Share Code.md",
     "strategies"
   ]
 }
