@@ -1,4 +1,5 @@
-[[MongoDB]]
-[[Express.js]]
-[[Angular]]
-[[Node.js]][[MEAN Stack]]
+#stack 
+[[MongoDB]] - DB
+[[Express.js]] - API
+[[Angular]] - Web Framework
+[[Node.js]] - Server

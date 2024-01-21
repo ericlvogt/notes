@@ -2,4 +2,4 @@
 
 Kinda looks like statically typed Python to me
 
-Preferred package manager is [[Maven]]
+Preferred package manager is [[Apache Maven]]
