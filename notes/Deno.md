@@ -1,4 +1,5 @@
+#javascript-runtime
 [[Runtime Environment]]
-[[TypeScript]]
+[[TypeScript (TS)]]
 [[JavaScript (JS)]]
 Build using [[Rust]]

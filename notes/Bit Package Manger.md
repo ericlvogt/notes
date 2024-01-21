@@ -1,2 +1,0 @@
-[[Package Manger]]
-[[JavaScript (JS)]]

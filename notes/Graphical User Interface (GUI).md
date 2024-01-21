@@ -1,0 +1,2 @@
+#concept 
+A display through which which a person can interact with a system. As opposed to a [[Command Line Interface (CLI)]] the GUI offers a much more visual and semantic experience which may include pictures, diagrams, videos, and interactable controls such as buttons.

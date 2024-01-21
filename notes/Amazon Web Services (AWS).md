@@ -1,1 +1,2 @@
-[[Amazon]] [[Cloud Computing]] offering
+#cloud-platform
+[[Amazon]] [[Cloud Platform]] [[Cloud Computing]]

@@ -1,1 +1,2 @@
+#concept 
 Deployment pattern where the new release is rolled out to a small subset of users. This is so there is less impact to failed releases since it only impacts a small subset of users and can be rolled back easier.

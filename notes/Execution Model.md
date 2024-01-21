@@ -1,0 +1,1 @@
+For a [[Programming Language]] the execution model specifies how the [[Syntax]] behaves.

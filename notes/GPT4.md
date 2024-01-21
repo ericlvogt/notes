@@ -1,1 +1,0 @@
-[[Generative Pre-trained Transformer (GPT)]] developed by [[OpenAI]]

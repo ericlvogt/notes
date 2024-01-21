@@ -1,1 +1,2 @@
-[[Package Manger]] for [[Dot Net (.NET)]]
+#package-manager 
+[[Package Manger]] for [[_.NET]]

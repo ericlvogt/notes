@@ -1,3 +1,4 @@
+#package-manager 
 Machine-level [[Command Line Interface (CLI)]] [[Package Manger]] for [[Windows OS]]
 Uses the [[NuGet]] packaging infrastructure
 

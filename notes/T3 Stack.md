@@ -1,6 +1,6 @@
 [[Next.js]]
 [[tRPC]]
 [[Tailwind CSS]]
-[[TypeScript]]
+[[TypeScript (TS)]]
 [[Prisma]]
 [[NextAuth.js]]

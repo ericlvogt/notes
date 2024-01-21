@@ -1,1 +1,1 @@
-[[Object-Relational Mapping (ORM)]] for [[Node.js]] and [[TypeScript]]
+[[Object-Relational Mapping (ORM)]] for [[Node.js]] and [[TypeScript (TS)]]

@@ -1,6 +1,6 @@
 [[Integrated Development Environment (IDE)]]
 [[Microsoft]]
-[[Dot Net (.NET)]]
+[[_.NET]]
 [[CSharp]]
 [[Visual Basic]]
 [[C++]]

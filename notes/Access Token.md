@@ -1,3 +1,4 @@
+#concept 
 [[Token (Security)]]
 Issued by authorization server which can be used to make secure API calls when a client needs to perform tasks or access sensitive data
 [[Bearer Token]]

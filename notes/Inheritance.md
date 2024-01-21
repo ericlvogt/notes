@@ -1,0 +1,2 @@
+#concept 
+Meaning one unit of code inherits (or takes all the functionality and storage) from another unit of code. This is so the original unit doesn't have to implement all the details of the inherited unit.

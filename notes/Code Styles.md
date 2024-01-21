@@ -1,3 +1,0 @@
-- camelCase
-- PascalCase
-- Hungarian Notation

@@ -1,1 +1,2 @@
+#concept
 [[Programming Paradigm]]

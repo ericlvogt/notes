@@ -1,3 +1,4 @@
+#concept 
 Vectors representing a different piece of data. The vector should represent the nuance of the data in a way that similar data should be close in dimensional space.
 
 Embeddings are then fed into a [[Machine Learning (ML)]] model to make predictions.
