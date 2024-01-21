@@ -8,29 +8,127 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6f8ad0a471168ffe",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "notes/.obsidian/workspace.json",
-                "staged": false
-              }
-            }
-          },
-          {
             "id": "386a3129e97b5579",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Active Directory (AD).md",
+                "file": "inbox/2024-01-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7159cb8fa835c7a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-01-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f4fe3d06fe697ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-01-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c913fdb5e37f449a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-01-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb9806033bdcf856",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-01-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "011af3921abf9b33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-01-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68114bee1abeda0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-01-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b72319d834dc500e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-01-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85bc180866f6ed00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-01-21.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b135f8dacd3f1937",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Optuna.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -76,8 +174,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,6 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Optuna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Optuna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +233,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Optuna.md"
+              }
             }
           },
           {
@@ -162,34 +263,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f8ad0a471168ffe",
+  "active": "b135f8dacd3f1937",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "inbox/2024-01-16.md",
-    "inbox/2024-01-21.md",
-    "Apache Maven.md",
-    "Apache Ant.md",
-    "Active Directory (AD).md",
-    "Sigma.md",
-    "Preset.md",
-    "Cube.md",
-    "Carto.md",
-    "Spotfire.md",
-    "Si Su.md",
-    "Thought Spot.md",
-    "Tableau.md",
-    "Qlik.md",
-    "strategies/Visualize and Analyze Data.md",
-    "Azure B2C.md",
-    "strategies/Secure an Application.md",
-    "strategies/Using Data to Automate.md",
-    "strategies/Batch Processing Data.md",
-    "strategies/Automate Testing.md",
-    "strategies/Automate Deploying Solutions.md",
-    "strategies/Analyze Logs.md",
-    "Internet Information Services (IIS).md",
-    "Jenkins.md",
-    "Label.md",
+    "Optimized Row Columnar (ORC).md",
+    "Operating System (OS).md",
+    "OpenShift.md",
+    "OpenJS Foundation.md",
+    "OpenID Connect (OIDC).md",
+    "OpenCV.md",
+    "OpenAI.md",
+    "Open-Closed Principle.md",
+    "Open Systems Interconnection (OSI) Model.md",
+    "Open Source.md",
+    "Open Neural Network eXchange (ONNX).md",
+    "Open Computing Language (OpenCL).md",
+    "OnLine Analytical Processing (OLAP).md",
+    "On Premisis (On Prem).md",
+    "OctoML.md",
+    "Object-Relational Mapping (ORM).md",
+    "Object-Oriented Programming (OOP).md",
+    "Object Stores.md",
+    "OAuth.md",
+    "NVIDIA DGX.md",
+    "NVIDIA.md",
+    "NumPy.md",
+    "NuGet.md",
+    "NoSQL Database.md",
+    "Non Fungible Tokens (NFT).md",
+    "Nomad.md",
     "strategies"
   ]
 }

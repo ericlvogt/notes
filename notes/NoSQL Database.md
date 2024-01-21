@@ -1,3 +1,4 @@
+#concept 
 Non-SQL, non-relational, not only relational 
 
 ```dataview 

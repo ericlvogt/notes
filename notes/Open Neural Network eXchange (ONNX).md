@@ -1,3 +1,4 @@
+#standard 
 [[Open Source]]
 [[Artificial Intelligence (AI)]] ecosystem
 Developed by [[Linux Foundation]]
