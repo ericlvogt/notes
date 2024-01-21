@@ -1,3 +1,4 @@
+#text-format 
 [[MarkDown]] inspired diagrams
 ```mermaid
 sequenceDiagram

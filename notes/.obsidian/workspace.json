@@ -11,11 +11,10 @@
             "id": "6f8ad0a471168ffe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "inbox/2024-01-16.md",
-                "mode": "source",
-                "source": false
+                "file": "notes/.obsidian/workspace.json",
+                "staged": false
               }
             }
           },
@@ -98,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "inbox/2024-01-16.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,8 +164,12 @@
   },
   "active": "6f8ad0a471168ffe",
   "lastOpenFiles": [
-    "Active Directory (AD).md",
+    "conflict-files-obsidian-git.md",
     "inbox/2024-01-16.md",
+    "inbox/2024-01-21.md",
+    "Apache Maven.md",
+    "Apache Ant.md",
+    "Active Directory (AD).md",
     "Sigma.md",
     "Preset.md",
     "Cube.md",
@@ -191,10 +190,6 @@
     "Internet Information Services (IIS).md",
     "Jenkins.md",
     "Label.md",
-    "strategies/Store Data.md",
-    "Android.md",
-    "Active Record.md",
-    "strategies/Share Code.md",
     "strategies"
   ]
 }
