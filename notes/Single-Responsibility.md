@@ -1,2 +1,2 @@
+#principle
 [[SOLID Principles]]
-[[Principles]]

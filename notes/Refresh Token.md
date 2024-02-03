@@ -1,3 +1,4 @@
+#concept
 Authorization server issues this to a client to allow a client to request a new [[Access Token]] from an authorization server.
 
 Refresh token rotation is creating new refresh token each time a new access token is issued

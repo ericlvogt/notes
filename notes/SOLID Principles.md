@@ -1,4 +1,4 @@
-[[Principles]]
+#principle 
 [[Single-Responsibility]]
 [[Open-Closed Principle]]
 [[Liskov Substitution]]

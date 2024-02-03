@@ -1,3 +1,4 @@
+#concept
 Zero downtime deployment strategy
 Alternative to [[Blue Green Deployment]]
 [[Continuous Delivery (CD)]] strategy

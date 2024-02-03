@@ -4,131 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "a1cf052e63c070e7",
+        "id": "1f8468a783231926",
         "type": "tabs",
         "children": [
           {
-            "id": "386a3129e97b5579",
+            "id": "48584795ff02454a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2024-01-21.md",
+                "file": "Shell.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7159cb8fa835c7a1",
+            "id": "835feb8c43a4cd3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2024-01-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3f4fe3d06fe697ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-01-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c913fdb5e37f449a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-01-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb9806033bdcf856",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-01-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "011af3921abf9b33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-01-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68114bee1abeda0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-01-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b72319d834dc500e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-01-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85bc180866f6ed00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-01-21.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b135f8dacd3f1937",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Optuna.md",
+                "file": "Swagger.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optuna.md",
+                "file": "Shell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optuna.md",
+                "file": "Shell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optuna.md"
+                "file": "Shell.md"
               }
             }
           },
@@ -263,34 +166,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b135f8dacd3f1937",
+  "active": "48584795ff02454a",
   "lastOpenFiles": [
+    "Service.md",
+    "Server Side Rendering (SSR).md",
+    "Server.md",
+    "Serialization.md",
+    "Selenium.md",
+    "Security Assertion Markup Language (SAML).md",
+    "Security.md",
+    "Secure Sockets Layer (SSL).md",
+    "Secure Hash Algorithms (SHA).md",
+    "Search Engine.md",
+    "Scrum.md",
+    "Scope.md",
+    "Scikit Learn.md",
+    "Scala.md",
+    "Rust.md",
+    "Runtime Environment.md",
+    "RLLib.md",
+    "Refresh Token.md",
+    "React Native.md",
+    "Protocol.md",
+    "Preprocessor.md",
+    "Platform.md",
+    "Pickle.md",
+    "Package Manger.md",
     "Optimized Row Columnar (ORC).md",
-    "Operating System (OS).md",
-    "OpenShift.md",
-    "OpenJS Foundation.md",
-    "OpenID Connect (OIDC).md",
     "OpenCV.md",
-    "OpenAI.md",
-    "Open-Closed Principle.md",
-    "Open Systems Interconnection (OSI) Model.md",
-    "Open Source.md",
-    "Open Neural Network eXchange (ONNX).md",
-    "Open Computing Language (OpenCL).md",
-    "OnLine Analytical Processing (OLAP).md",
-    "On Premisis (On Prem).md",
-    "OctoML.md",
-    "Object-Relational Mapping (ORM).md",
-    "Object-Oriented Programming (OOP).md",
-    "Object Stores.md",
-    "OAuth.md",
-    "NVIDIA DGX.md",
-    "NVIDIA.md",
-    "NumPy.md",
-    "NuGet.md",
-    "NoSQL Database.md",
-    "Non Fungible Tokens (NFT).md",
-    "Nomad.md",
+    "Pasted image 20230113211720.png",
     "strategies"
   ]
 }
