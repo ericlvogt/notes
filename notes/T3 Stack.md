@@ -1,3 +1,4 @@
+#stack 
 [[Next.js]]
 [[tRPC]]
 [[Tailwind CSS]]

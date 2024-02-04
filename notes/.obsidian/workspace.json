@@ -13,7 +13,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shell.md",
+                "file": "inbox/2024-02-04.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ffdf59980fec834",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Syntactically Awesome Style Sheets(Sass).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40e12c43a74ccf4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transact SQL (T-SQL).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "966940451fcd628d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TensorFlow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ee8b851256db5a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Svelte Kit.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +79,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -60,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#business-intelligence",
+                "query": "tag:#desktop-ui-framework",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shell.md",
+                "file": "TensorFlow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shell.md",
+                "file": "TensorFlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shell.md"
+                "file": "TensorFlow.md"
               }
             }
           },
@@ -161,39 +210,39 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "48584795ff02454a",
+  "active": "966940451fcd628d",
   "lastOpenFiles": [
-    "Service.md",
-    "Server Side Rendering (SSR).md",
-    "Server.md",
-    "Serialization.md",
-    "Selenium.md",
-    "Security Assertion Markup Language (SAML).md",
-    "Security.md",
-    "Secure Sockets Layer (SSL).md",
-    "Secure Hash Algorithms (SHA).md",
-    "Search Engine.md",
-    "Scrum.md",
-    "Scope.md",
-    "Scikit Learn.md",
-    "Scala.md",
-    "Rust.md",
-    "Runtime Environment.md",
-    "RLLib.md",
-    "Refresh Token.md",
-    "React Native.md",
-    "Protocol.md",
-    "Preprocessor.md",
-    "Platform.md",
-    "Pickle.md",
-    "Package Manger.md",
-    "Optimized Row Columnar (ORC).md",
-    "OpenCV.md",
+    "TeamCity.md",
+    "Task-based Asynchronous Pattern (TAP).md",
+    "Microsoft SQL Server (MSSQL).md",
+    "Transact SQL (T-SQL).md",
+    "Svelte Kit.md",
+    "Toolkit.md",
+    "Token (Security).md",
+    "Thought Spot.md",
+    "Text Editor.md",
+    "extra/Training Ideas.md",
+    "Toast Messages.md",
+    "Test Framework.md",
+    "Testing.md",
+    "Test Driven Development (TDD).md",
+    "Terraform.md",
+    "Test Code.md",
+    "Terminal.md",
+    "TensorFlow.md",
+    "Tailwind CSS.md",
+    "Tabnine.md",
+    "Tableau.md",
+    "T3 Stack.md",
+    "Syntax.md",
+    "Syntactically Awesome Style Sheets(Sass).md",
+    "Cascading Style Sheet (CSS).md",
+    "Swing.md",
     "Pasted image 20230113211720.png",
     "strategies"
   ]
