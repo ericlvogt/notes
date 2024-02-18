@@ -1,4 +1,4 @@
-#architecture-pattern
+#front-end-architecture-pattern
 
 ```mermaid
 flowchart LR

@@ -1,4 +1,4 @@
-#architecture-pattern 
+#concept 
 [[_.NET]] guides how to implement asynchronous logic.
 
 There are 2 different patterns with async:

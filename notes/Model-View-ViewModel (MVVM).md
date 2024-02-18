@@ -1,4 +1,4 @@
-#architecture-pattern
+#front-end-architecture-pattern
 https://learn.microsoft.com/en-us/dotnet/architecture/maui/mvvm
 
 ```mermaid

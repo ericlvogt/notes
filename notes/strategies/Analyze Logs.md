@@ -1,2 +1,4 @@
 [[Splunk]]
 [[ELK Stack]]
+
+#logging 

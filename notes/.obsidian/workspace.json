@@ -8,199 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "48584795ff02454a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-02-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ffdf59980fec834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Syntactically Awesome Style Sheets(Sass).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40e12c43a74ccf4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Transact SQL (T-SQL).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "966940451fcd628d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-02-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ca1134a319dd889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-02-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf3a58e6dd9b96d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-02-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2058361716bc1b16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-02-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "716bfb12d4596aa9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-02-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a43c82f0cdb6a9dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-02-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "876b2a3e2fb448b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-02-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07ba182f4555c27e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-02-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4dd8eb4cffdebfc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-02-04.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f2a3eb1971540a43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zigbee.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffb8cde8c8052956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Windows App SDK (WinAppSDK).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ee8b851256db5a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Svelte Kit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "835feb8c43a4cd3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Swagger.md",
+                "file": "strategies/_all.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#desktop-ui-framework",
+                "query": "tag:#build-server",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -246,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -266,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zigbee.md",
+                "file": "strategies/_all.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zigbee.md",
+                "file": "strategies/_all.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zigbee.md"
+                "file": "strategies/_all.md"
               }
             }
           },
@@ -335,34 +155,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2a3eb1971540a43",
+  "active": "f6da8ce600d3ba0c",
   "lastOpenFiles": [
-    "Zig.md",
-    "ZenML.md",
-    "You Only Look Once (YOLO) Model.md",
-    "You Aren't Gonna Need It! (YAGNI).md",
-    "Yet Another Markup Language (YAML).md",
-    "Yarn.md",
-    "Y Combinator.md",
-    "XGBoost.md",
-    "Write Everything Twice (WET).md",
-    "World Wide Web (WWW).md",
-    "Workload Identity Federation.md",
-    "WordPress.md",
-    "WIX.md",
-    "WinUI3.md",
-    "Windows UI Library (WinUI).md",
-    "Windows Subsystem for Linux (WSL).md",
-    "Windows Runtime (WinRT).md",
-    "Windows OS.md",
-    "Windows App SDK (WinAppSDK).md",
-    "WinAppSDK.md",
-    "What You See Is What You Get (WYSIWYG).md",
-    "Weights & Biases (W&B).md",
-    "WebStorm.md",
-    "WebPack.md",
-    "WebGL.md",
-    "Web Server.md",
+    "strategies/Store Data.md",
+    "strategies/Create a Web API.md",
+    "strategies/_all.md",
+    "strategies/Create a Web Site.md",
+    "strategies/Create a Web Application.md",
+    "strategies/Create a Mobile Application.md",
+    "strategies/Create a Desktop Application.md",
+    "Task-based Asynchronous Pattern (TAP).md",
+    "Single Page Application (SPA).md",
+    "Model-View-ViewModel (MVVM).md",
+    "Model-View-Controller (MVC).md",
+    "Model View Presenter (MVP).md",
+    "strategies/Analyze Logs.md",
+    "strategies/Send and Receive Data.md",
+    "Spring.md",
+    "Rasa.md",
+    "Spring Boot.md",
+    "strategies/Visualize and Analyze Data.md",
+    "strategies/Using Data to Automate.md",
+    "Secure Hash Algorithms (SHA).md",
+    "strategies/Secure an Application.md",
+    "strategies/Scale Compute.md",
+    "RSA Encryption.md",
+    "Gradient Descent.md",
+    "Forward Propagation.md",
+    "Damerau Levenshtein.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Pasted image 20230113211720.png",
