@@ -18,8 +18,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "33adf35e7cbca93e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X.509 Certificate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1e3eb07a06d7ea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SSL TLS Certificate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "be283376cdfb3849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code Signing Certificate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b23afc3a5006ed56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "X.509 Certificate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-03-01.md",
+                "file": "X.509 Certificate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-03-01.md",
+                "file": "X.509 Certificate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/2024-03-01.md"
+                "file": "X.509 Certificate.md"
               }
             }
           },
@@ -154,12 +203,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "147908c4a815e948",
+  "active": "33adf35e7cbca93e",
   "lastOpenFiles": [
-    "SSL TLS Certificate.md",
-    "Code Signing Certificate.md",
-    "Let's Encrypt.md",
     "inbox/2024-03-01.md",
+    "X.509 Certificate.md",
+    "Code Signing Certificate.md",
+    "SSL TLS Certificate.md",
+    "Let's Encrypt.md",
     "Zigbee.md",
     "extra/Training Ideas.md",
     "Windows UI Library (WinUI).md",
@@ -181,7 +231,6 @@
     "Astro.md",
     "Argo.md",
     "Apache MxNet.md",
-    "Amazon SageMaker.md",
     "strategies"
   ]
 }
