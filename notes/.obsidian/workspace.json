@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1f8468a783231926",
+        "id": "fd0b28b434f3578d",
         "type": "tabs",
         "children": [
           {
-            "id": "32a643c740bc1247",
+            "id": "147908c4a815e948",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2024-02-24.md",
+                "file": "inbox/2024-03-01.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#distributed-database-engine",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-02-24.md",
+                "file": "inbox/2024-03-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-02-24.md",
+                "file": "inbox/2024-03-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/2024-02-24.md"
+                "file": "inbox/2024-03-01.md"
               }
             }
           },
@@ -150,42 +149,39 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "32a643c740bc1247",
+  "active": "147908c4a815e948",
   "lastOpenFiles": [
-    "Presto.md",
-    "inbox/2024-02-24.md",
-    "Trino.md",
-    "inbox/2024-02-19.md",
-    "Pulumi.md",
-    "Argo.md",
-    "Nix.md",
-    "inbox/2024-02-18.md",
-    "Julia.md",
-    "Apache MxNet.md",
-    "Logstash.md",
+    "SSL TLS Certificate.md",
+    "Code Signing Certificate.md",
+    "Let's Encrypt.md",
+    "inbox/2024-03-01.md",
+    "Zigbee.md",
+    "extra/Training Ideas.md",
+    "Windows UI Library (WinUI).md",
+    "Windows App SDK (WinAppSDK).md",
+    "Swagger.md",
+    "Storyblock.md",
+    "Statsmodels.md",
+    "Static Site Generation (SSG).md",
+    "Preact.md",
+    "Gradle.md",
     "Geneos.md",
-    "Splunk.md",
-    "Apache Airflow.md",
-    "Control-M.md",
-    "DKube.md",
-    "DataRobot.md",
     "Dataiku.md",
-    "strategies/_all.md",
-    "strategies/Store Data.md",
-    "strategies/Create a Web API.md",
-    "strategies/Create a Web Site.md",
-    "strategies/Create a Web Application.md",
-    "strategies/Create a Mobile Application.md",
-    "strategies/Create a Desktop Application.md",
-    "Task-based Asynchronous Pattern (TAP).md",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Pasted image 20230113211720.png",
+    "DataRobot.md",
+    "DKube.md",
+    "Control-M.md",
+    "Common Language Runtime (CLR).md",
+    "CircleCI.md",
+    "Bamboo.md",
+    "Astro.md",
+    "Argo.md",
+    "Apache MxNet.md",
+    "Amazon SageMaker.md",
     "strategies"
   ]
 }
