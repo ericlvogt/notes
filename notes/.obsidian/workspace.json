@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f63c811254f53fed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamic Programming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-02-24.md",
+                "file": "Dynamic Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-02-24.md",
+                "file": "Dynamic Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/2024-02-24.md"
+                "file": "Dynamic Programming.md"
               }
             }
           },
@@ -155,10 +167,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "32a643c740bc1247",
+  "active": "f63c811254f53fed",
   "lastOpenFiles": [
-    "Presto.md",
     "inbox/2024-02-24.md",
+    "Dynamic Programming.md",
+    "Presto.md",
     "Trino.md",
     "inbox/2024-02-19.md",
     "Pulumi.md",
@@ -182,7 +195,6 @@
     "strategies/Create a Web Application.md",
     "strategies/Create a Mobile Application.md",
     "strategies/Create a Desktop Application.md",
-    "Task-based Asynchronous Pattern (TAP).md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Pasted image 20230113211720.png",
