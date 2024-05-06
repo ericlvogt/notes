@@ -4,64 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "fd0b28b434f3578d",
+        "id": "50b90d6eba94710c",
         "type": "tabs",
         "children": [
           {
-            "id": "147908c4a815e948",
+            "id": "00577b909d0a20ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2024-03-01.md",
+                "file": "Presto.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "33adf35e7cbca93e",
+            "id": "50351fe294f41efc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X.509 Certificate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1e3eb07a06d7ea6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSL TLS Certificate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be283376cdfb3849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Code Signing Certificate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b23afc3a5006ed56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "X.509 Certificate.md",
+                "file": "Trino.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#distributed-database-engine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X.509 Certificate.md",
+                "file": "Trino.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X.509 Certificate.md",
+                "file": "Trino.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "X.509 Certificate.md"
+                "file": "Trino.md"
               }
             }
           },
@@ -203,8 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "33adf35e7cbca93e",
+  "active": "50351fe294f41efc",
   "lastOpenFiles": [
+    "Presto.md",
+    "Trino.md",
+    "strategies/_all.md",
+    "Dataiku.md",
     "inbox/2024-03-01.md",
     "X.509 Certificate.md",
     "Code Signing Certificate.md",
@@ -221,16 +190,12 @@
     "Preact.md",
     "Gradle.md",
     "Geneos.md",
-    "Dataiku.md",
     "DataRobot.md",
     "DKube.md",
     "Control-M.md",
     "Common Language Runtime (CLR).md",
     "CircleCI.md",
     "Bamboo.md",
-    "Astro.md",
-    "Argo.md",
-    "Apache MxNet.md",
     "strategies"
   ]
 }
