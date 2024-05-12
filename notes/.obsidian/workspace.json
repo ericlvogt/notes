@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1f8468a783231926",
+        "id": "df4f451734e9ae51",
         "type": "tabs",
         "children": [
           {
-            "id": "32a643c740bc1247",
+            "id": "712077f933abbd76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2024-02-24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f63c811254f53fed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic Programming.md",
+                "file": "strategies/Deploy and Manage Distributed Resources.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#distributed-database-engine",
+                "query": "tag:#streaming-data-platform",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "strategies/Deploy and Manage Distributed Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dynamic Programming.md",
+                "file": "strategies/Deploy and Manage Distributed Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +114,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dynamic Programming.md"
+                "file": "strategies/Deploy and Manage Distributed Resources.md"
               }
             }
           },
@@ -151,11 +138,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 429.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,34 +154,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f63c811254f53fed",
+  "active": "712077f933abbd76",
   "lastOpenFiles": [
-    "inbox/2024-02-24.md",
-    "Dynamic Programming.md",
-    "Presto.md",
-    "Trino.md",
-    "inbox/2024-02-19.md",
-    "Pulumi.md",
-    "Argo.md",
-    "Nix.md",
-    "inbox/2024-02-18.md",
-    "Julia.md",
-    "Apache MxNet.md",
-    "Logstash.md",
-    "Geneos.md",
-    "Splunk.md",
-    "Apache Airflow.md",
-    "Control-M.md",
-    "DKube.md",
-    "DataRobot.md",
-    "Dataiku.md",
-    "strategies/_all.md",
-    "strategies/Store Data.md",
-    "strategies/Create a Web API.md",
+    "strategies/Share Code.md",
+    "strategies/Data Visualize and Analyze.md",
+    "strategies/Deploy and Manage Distributed Resources.md",
+    "strategies/Data Storage.md",
+    "strategies/Data Collect and Transform.md",
+    "strategies/Data Batch Processing.md",
+    "strategies/Automate Testing.md",
+    "strategies/Automate Deploying Solutions.md",
+    "strategies/Analyze Logs.md",
+    "strategies/Host a Solution.md",
+    "strategies/Scale Compute.md",
+    "strategies/Secure an Application.md",
+    "strategies/Data Real Time.md",
+    "strategies/Data Automation.md",
+    "strategies/Data Send and Receive.md",
+    "strategies/Fast Edge of Network.md",
+    "strategies/eXtended Reality (XR).md",
     "strategies/Create a Web Site.md",
     "strategies/Create a Web Application.md",
+    "strategies/Create a Web API.md",
     "strategies/Create a Mobile Application.md",
     "strategies/Create a Desktop Application.md",
+    "inbox/2024-05-12.md",
+    "Event Driven.md",
+    "IBM MQ.md",
+    "Amazon Kinesis.md",
+    "zz_attachments",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Pasted image 20230113211720.png",
