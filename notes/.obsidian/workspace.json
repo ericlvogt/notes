@@ -4,52 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c95851178008c745",
+        "id": "df4f451734e9ae51",
         "type": "tabs",
         "children": [
           {
-            "id": "e27041aad59c8ac7",
+            "id": "712077f933abbd76",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2024-06-11.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67c8d2db54c24f42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-06-14.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2215c22d0fe198a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Azure Data Factory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50443f267df05cee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dynamic Time Warping (DTW).md",
+                "file": "strategies/Deploy and Manage Distributed Resources.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#message-queue",
+                "query": "tag:#streaming-data-platform",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "inbox/2024-06-14.md",
+                "file": "strategies/Deploy and Manage Distributed Resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "inbox/2024-06-14.md",
+                "file": "strategies/Deploy and Manage Distributed Resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +115,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               }
             }
@@ -163,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "inbox/2024-06-14.md"
+                "file": "strategies/Deploy and Manage Distributed Resources.md"
               }
             }
           },
@@ -176,11 +139,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 429.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,34 +155,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "67c8d2db54c24f42",
+  "active": "712077f933abbd76",
   "lastOpenFiles": [
-    "Azure Event Hub.md",
-    "inbox/2024-06-14.md",
-    "Azure Data Factory.md",
-    "inbox/2024-06-11.md",
-    "Dynamic Time Warping (DTW).md",
-    "Apache Kafka.md",
-    "Control Area Network (CAN Bus).md",
-    "Compute Unified Device Architecture (CUDA).md",
-    "Trino.md",
-    "Presto.md",
-    "strategies/_all.md",
-    "Dataiku.md",
-    "inbox/2024-03-01.md",
-    "X.509 Certificate.md",
-    "Code Signing Certificate.md",
-    "SSL TLS Certificate.md",
-    "Let's Encrypt.md",
-    "Zigbee.md",
-    "extra/Training Ideas.md",
-    "Windows UI Library (WinUI).md",
-    "Windows App SDK (WinAppSDK).md",
-    "Swagger.md",
-    "Storyblock.md",
-    "Statsmodels.md",
-    "Static Site Generation (SSG).md",
-    "Preact.md",
+    "strategies/Share Code.md",
+    "strategies/Data Visualize and Analyze.md",
+    "strategies/Deploy and Manage Distributed Resources.md",
+    "strategies/Data Storage.md",
+    "strategies/Data Collect and Transform.md",
+    "strategies/Data Batch Processing.md",
+    "strategies/Automate Testing.md",
+    "strategies/Automate Deploying Solutions.md",
+    "strategies/Analyze Logs.md",
+    "strategies/Host a Solution.md",
+    "strategies/Scale Compute.md",
+    "strategies/Secure an Application.md",
+    "strategies/Data Real Time.md",
+    "strategies/Data Automation.md",
+    "strategies/Data Send and Receive.md",
+    "strategies/Fast Edge of Network.md",
+    "strategies/eXtended Reality (XR).md",
+    "strategies/Create a Web Site.md",
+    "strategies/Create a Web Application.md",
+    "strategies/Create a Web API.md",
+    "strategies/Create a Mobile Application.md",
+    "strategies/Create a Desktop Application.md",
+    "inbox/2024-05-12.md",
+    "Event Driven.md",
+    "IBM MQ.md",
+    "Amazon Kinesis.md",
+    "zz_attachments",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Pasted image 20230113211720.png",
     "strategies"
   ]
 }
