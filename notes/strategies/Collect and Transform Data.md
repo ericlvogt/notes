@@ -1,6 +1,6 @@
 #data-pipeline 
 #scalable-compute 
-#streaming-data-platform 
+#message-queue 
 [[Web Scraping]]
 [[Data Mining]]
 [[Extract Transform Load (ETL)]]

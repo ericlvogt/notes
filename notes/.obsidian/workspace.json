@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Control Area Network (CAN Bus).md",
+                "file": "inbox/2024-06-14.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2215c22d0fe198a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Azure Data Factory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50443f267df05cee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dynamic Time Warping (DTW).md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#message-queue",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +102,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control Area Network (CAN Bus).md",
+                "file": "inbox/2024-06-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Control Area Network (CAN Bus).md",
+                "file": "inbox/2024-06-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Control Area Network (CAN Bus).md"
+                "file": "inbox/2024-06-14.md"
               }
             }
           },
@@ -169,7 +194,12 @@
   },
   "active": "67c8d2db54c24f42",
   "lastOpenFiles": [
+    "Azure Event Hub.md",
+    "inbox/2024-06-14.md",
+    "Azure Data Factory.md",
     "inbox/2024-06-11.md",
+    "Dynamic Time Warping (DTW).md",
+    "Apache Kafka.md",
     "Control Area Network (CAN Bus).md",
     "Compute Unified Device Architecture (CUDA).md",
     "Trino.md",
@@ -190,11 +220,6 @@
     "Statsmodels.md",
     "Static Site Generation (SSG).md",
     "Preact.md",
-    "Gradle.md",
-    "Geneos.md",
-    "DataRobot.md",
-    "DKube.md",
-    "Control-M.md",
     "strategies"
   ]
 }
