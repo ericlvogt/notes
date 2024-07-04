@@ -1,0 +1,2 @@
+#data-pipeline 
+Cloud service under [[Azure]]. Meant for data movement between known data sources. Not good when you have many clients but when you need to move large amounts of data between static clients.
