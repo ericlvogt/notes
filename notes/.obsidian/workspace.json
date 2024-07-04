@@ -4,22 +4,107 @@
     "type": "split",
     "children": [
       {
-        "id": "df4f451734e9ae51",
+        "id": "1ea4816d1cad7da5",
         "type": "tabs",
         "children": [
           {
-            "id": "712077f933abbd76",
+            "id": "786a6ce754173151",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "strategies/Deploy and Manage Distributed Resources.md",
+                "file": "inbox/2024-06-30.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfd433f478158f11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-07-01.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30e5dd191a842386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/2024-07-02.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c1c5db3ae6507900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TensorRT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd892f19f11f22a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polars.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d89d755df213eefc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FFmpeg.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56b51a8b5b9e73ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "State Space Models (SSM).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e1e540f1b25b7470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Recurrent Neural Network (RNN).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +133,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#streaming-data-platform",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "strategies/Deploy and Manage Distributed Resources.md",
+                "file": "TensorRT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "strategies/Deploy and Manage Distributed Resources.md",
+                "file": "TensorRT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "strategies/Deploy and Manage Distributed Resources.md"
+                "file": "TensorRT.md"
               }
             }
           },
@@ -138,7 +223,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -154,34 +239,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "712077f933abbd76",
+  "active": "c1c5db3ae6507900",
   "lastOpenFiles": [
+    "inbox/2024-07-02.md",
+    "TensorRT.md",
+    "Polars.md",
+    "Apache Airflow.md",
+    "inbox/2024-07-01.md",
+    "Airflow.md",
+    "WebRTC.md",
+    "FFmpeg.md",
+    "LLVM.md",
+    "inbox/2024-06-30.md",
+    "State Space Models (SSM).md",
+    "Recurrent Neural Network (RNN).md",
+    "Apache Druid.md",
+    "extra/Cool Stuff.md",
+    "extra/Ideas.md",
+    "extra/Training Ideas.md",
+    "strategies/Analyze Logs.md",
+    "strategies/Deploy and Manage Distributed Resources.md",
     "strategies/Share Code.md",
     "strategies/Data Visualize and Analyze.md",
-    "strategies/Deploy and Manage Distributed Resources.md",
     "strategies/Data Storage.md",
     "strategies/Data Collect and Transform.md",
     "strategies/Data Batch Processing.md",
     "strategies/Automate Testing.md",
     "strategies/Automate Deploying Solutions.md",
-    "strategies/Analyze Logs.md",
     "strategies/Host a Solution.md",
-    "strategies/Scale Compute.md",
-    "strategies/Secure an Application.md",
-    "strategies/Data Real Time.md",
-    "strategies/Data Automation.md",
-    "strategies/Data Send and Receive.md",
-    "strategies/Fast Edge of Network.md",
-    "strategies/eXtended Reality (XR).md",
-    "strategies/Create a Web Site.md",
-    "strategies/Create a Web Application.md",
-    "strategies/Create a Web API.md",
-    "strategies/Create a Mobile Application.md",
-    "strategies/Create a Desktop Application.md",
-    "inbox/2024-05-12.md",
-    "Event Driven.md",
-    "IBM MQ.md",
-    "Amazon Kinesis.md",
     "zz_attachments",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
