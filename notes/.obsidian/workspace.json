@@ -4,129 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1ea4816d1cad7da5",
+        "id": "00b6120fd77e6e5f",
         "type": "tabs",
         "children": [
           {
-            "id": "786a6ce754173151",
+            "id": "0fb8a441e569b9b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "inbox/2024-06-30.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfd433f478158f11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-07-01.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30e5dd191a842386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "inbox/2024-07-02.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c1c5db3ae6507900",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TensorRT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aef492a64d12c495",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "notes/conflict-files-obsidian-git.md",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "5fba898dcaa4aa22",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "notes/.obsidian/workspace.json",
-                "staged": false
-              }
-            }
-          },
-          {
-            "id": "fd892f19f11f22a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polars.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d89d755df213eefc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FFmpeg.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56b51a8b5b9e73ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "State Space Models (SSM).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1e540f1b25b7470",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recurrent Neural Network (RNN).md",
+                "file": "Hive Metastore.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#build-service",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -192,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hive Metastore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hive Metastore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -229,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hive Metastore.md"
+              }
             }
           },
           {
@@ -259,6 +156,21 @@
   },
   "active": "b08179ab5560d14d",
   "lastOpenFiles": [
+    "Unity Catalog.md",
+    "Hive Metastore.md",
+    "inbox/2024-09-05.md",
+    "Apache Hive.md",
+    "Azure Synapse Analytics.md",
+    "Microsoft Fabric.md",
+    "Modular.md",
+    "Multi-Level Intermediate Representation (MLIR).md",
+    "Mojo.md",
+    "extra/Training Ideas.md",
+    "Chris Lattner.md",
+    "GNU make.md",
+    "CMake.md",
+    "extra/Cool Stuff.md",
+    "extra/Ideas.md",
     "conflict-files-obsidian-git.md",
     "TensorRT.md",
     "inbox/2024-06-14.md",
@@ -270,21 +182,6 @@
     "Control Area Network (CAN Bus).md",
     "Code Signing Certificate.md",
     "Azure Event Hub.md",
-    "inbox/2024-07-02.md",
-    "Polars.md",
-    "Apache Airflow.md",
-    "inbox/2024-07-01.md",
-    "Airflow.md",
-    "WebRTC.md",
-    "FFmpeg.md",
-    "LLVM.md",
-    "inbox/2024-06-30.md",
-    "State Space Models (SSM).md",
-    "Recurrent Neural Network (RNN).md",
-    "Apache Druid.md",
-    "extra/Cool Stuff.md",
-    "extra/Ideas.md",
-    "extra/Training Ideas.md",
     "zz_attachments",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
