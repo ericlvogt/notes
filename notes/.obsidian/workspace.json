@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "00b6120fd77e6e5f",
+        "id": "0de3374f14c18a75",
         "type": "tabs",
         "children": [
           {
-            "id": "0fb8a441e569b9b8",
+            "id": "d89b4c18f6216b3e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hive Metastore.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hive Metastore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hive Metastore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Hive Metastore.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,10 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b08179ab5560d14d",
+  "active": "d89b4c18f6216b3e",
   "lastOpenFiles": [
-    "Unity Catalog.md",
+    "great expectations.md",
+    "Jupyter Notebook.md",
+    "papermill.md",
+    "Datadog.md",
+    "dbt.md",
+    "Dagster.md",
+    "Apache Airflow.md",
+    "Airflow.md",
+    "Apache Superset.md",
+    "Argo.md",
+    "Amazon Aurora.md",
+    "Apache Avro.md",
+    "Protocol Buffer (Protobuf).md",
     "Hive Metastore.md",
+    "Unity Catalog.md",
     "inbox/2024-09-05.md",
     "Apache Hive.md",
     "Azure Synapse Analytics.md",
@@ -169,19 +174,6 @@
     "Chris Lattner.md",
     "GNU make.md",
     "CMake.md",
-    "extra/Cool Stuff.md",
-    "extra/Ideas.md",
-    "conflict-files-obsidian-git.md",
-    "TensorRT.md",
-    "inbox/2024-06-14.md",
-    "inbox/2024-06-11.md",
-    "inbox/2024-03-01.md",
-    "X.509 Certificate.md",
-    "Let's Encrypt.md",
-    "Dynamic Time Warping (DTW).md",
-    "Control Area Network (CAN Bus).md",
-    "Code Signing Certificate.md",
-    "Azure Event Hub.md",
     "zz_attachments",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
