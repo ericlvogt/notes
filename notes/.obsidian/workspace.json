@@ -11,8 +11,12 @@
             "id": "d89b4c18f6216b3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ray.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ray.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ray.md"
+              }
             }
           },
           {
@@ -148,6 +156,7 @@
   },
   "active": "d89b4c18f6216b3e",
   "lastOpenFiles": [
+    "SciPy.md",
     "great expectations.md",
     "Jupyter Notebook.md",
     "papermill.md",
@@ -173,7 +182,6 @@
     "extra/Training Ideas.md",
     "Chris Lattner.md",
     "GNU make.md",
-    "CMake.md",
     "zz_attachments",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
