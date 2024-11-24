@@ -1,9 +1,10 @@
 Complexity
-- State
+- [[State]]
 - Overengineering [[You Aren't Gonna Need It!]]
-- Generic implementations
-- Dependencies
-- Reflection
+- [[Generic Implementations]]
+- [[Dependencies]]
+- [[Implicit dependencies]]
+- [[Exceptions]]
 Null references 
 - use a language that will statically analyze for null references
 Accessing an invalid index 

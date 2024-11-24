@@ -1,0 +1,1 @@
+Asynchronous code is complex so reduce it when possible. Instead try to do this at the highest level possible. This is also where you get the most gains too.

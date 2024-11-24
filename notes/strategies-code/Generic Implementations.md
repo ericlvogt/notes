@@ -1,0 +1,1 @@
+Don't do this because no other developer wants to use your shitty code.
