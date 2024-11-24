@@ -21,3 +21,4 @@
 - [[Redis]] or another [[Cache]] implementation on client side for a desktop application
 - Measure the benefits and cost between a server implementation (cost of hosting, infra, cloud costs, development complexity of API etc.) vs keeping code on client side (Application speed etc.)
 - [Ivy League Courses](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)
+

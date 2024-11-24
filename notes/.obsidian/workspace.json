@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0de3374f14c18a75",
+        "id": "0df57f01d24f21a7",
         "type": "tabs",
         "children": [
           {
-            "id": "d89b4c18f6216b3e",
+            "id": "5b537547d25a2f94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ray.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -39,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +48,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#build-service",
+                "query": "tag:#business-intelligence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ray"
             }
           },
           {
@@ -105,7 +111,9 @@
                 "file": "Ray.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ray"
             }
           },
           {
@@ -116,7 +124,9 @@
               "state": {
                 "sortOrder": "alphabetical",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,7 +136,9 @@
               "type": "outline",
               "state": {
                 "file": "Ray.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ray"
             }
           },
           {
@@ -134,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -154,8 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d89b4c18f6216b3e",
+  "active": "5b537547d25a2f94",
   "lastOpenFiles": [
+    "Ray.md",
+    "extra/Training Ideas.md",
+    "MLflow.md",
     "SciPy.md",
     "great expectations.md",
     "Jupyter Notebook.md",
@@ -179,9 +196,6 @@
     "Modular.md",
     "Multi-Level Intermediate Representation (MLIR).md",
     "Mojo.md",
-    "extra/Training Ideas.md",
-    "Chris Lattner.md",
-    "GNU make.md",
     "zz_attachments",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
