@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "strategies-code/You Aren't Gonna Need It!.md",
+                "file": "strategies-code/State.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "You Aren't Gonna Need It!"
+              "title": "State"
             }
           }
         ]
@@ -174,8 +174,13 @@
   },
   "active": "5b537547d25a2f94",
   "lastOpenFiles": [
-    "strategies-code/State.md",
+    "strategies-code/You Aren't Gonna Need It!.md",
     "strategies-code/Semantics.md",
+    "strategies-code/Feature Flags.md",
+    "strategies-code/Instance vs Static.md",
+    "strategies-code/Handle and throw errors.md",
+    "strategies-code/Constants.md",
+    "strategies-code/State.md",
     "strategies-code/Root of all problems.md",
     "strategies-code/Refactoring.md",
     "strategies-code/Performance.md",
@@ -183,12 +188,8 @@
     "strategies-code/Logs.md",
     "strategies-code/Keep it simple.md",
     "strategies-code/Interfaces (Contracts).md",
-    "strategies-code/Instance vs Static.md",
-    "strategies-code/Handle and throw errors.md",
     "strategies-code/Function length.md",
-    "strategies-code/Constants.md",
     "strategies-code/Entities and Repositories.md",
-    "strategies-code/You Aren't Gonna Need It!.md",
     "strategies-code/Untitled",
     "strategies-code",
     "Ray.md",
@@ -201,7 +202,6 @@
     "Datadog.md",
     "dbt.md",
     "Dagster.md",
-    "Apache Airflow.md",
     "zz_attachments",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

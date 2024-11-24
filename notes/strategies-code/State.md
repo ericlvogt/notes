@@ -1,8 +1,6 @@
 State is the source of a lot of evil reduce it as much as you can. If you add state realize this is technical debt.
-
 ## Entities
 Entities should have unique identifiers in them
-
 ## Repositories
 One thing I like about Domain Driven Design is how it splits your state into Entities.
 
