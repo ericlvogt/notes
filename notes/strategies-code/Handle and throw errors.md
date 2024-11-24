@@ -1,0 +1,1 @@
+Catch and handle errors at the highest level possible to avoid hiding errors at a low level. Allow errors to bubble up and only catch when you know you want to continue the process when an error happens.

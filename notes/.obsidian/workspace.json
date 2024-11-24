@@ -11,10 +11,14 @@
             "id": "5b537547d25a2f94",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "strategies-code/Organizing Code.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Organizing Code"
             }
           }
         ]
@@ -170,6 +174,13 @@
   },
   "active": "5b537547d25a2f94",
   "lastOpenFiles": [
+    "strategies-code/Method length.md",
+    "strategies-code/Dependency Injection.md",
+    "strategies-code/Interfaces.md",
+    "strategies-code/Organizing Code.md",
+    "strategies-code/Logs.md",
+    "strategies-code/Handle and throw errors.md",
+    "strategies-code",
     "Ray.md",
     "extra/Training Ideas.md",
     "MLflow.md",
@@ -190,12 +201,6 @@
     "Hive Metastore.md",
     "Unity Catalog.md",
     "inbox/2024-09-05.md",
-    "Apache Hive.md",
-    "Azure Synapse Analytics.md",
-    "Microsoft Fabric.md",
-    "Modular.md",
-    "Multi-Level Intermediate Representation (MLIR).md",
-    "Mojo.md",
     "zz_attachments",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
