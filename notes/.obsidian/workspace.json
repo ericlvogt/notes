@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "strategies-code/Organizing Code.md",
+                "file": "strategies-code/You Aren't Gonna Need It!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Organizing Code"
+              "title": "You Aren't Gonna Need It!"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 375.5
   },
   "right": {
     "id": "71f9ae5d1ca38a70",
@@ -174,12 +174,21 @@
   },
   "active": "5b537547d25a2f94",
   "lastOpenFiles": [
-    "strategies-code/Method length.md",
-    "strategies-code/Dependency Injection.md",
-    "strategies-code/Interfaces.md",
+    "strategies-code/Semantics.md",
+    "strategies-code/Constants.md",
+    "strategies-code/Classes vs Functions.md",
+    "strategies-code/Root of all problems.md",
+    "strategies-code/State.md",
+    "strategies-code/You Aren't Gonna Need It!.md",
+    "strategies-code/Refactoring.md",
     "strategies-code/Organizing Code.md",
-    "strategies-code/Logs.md",
+    "strategies-code/Performance.md",
+    "strategies-code/Interfaces (Contracts).md",
+    "strategies-code/Untitled",
     "strategies-code/Handle and throw errors.md",
+    "strategies-code/Function length.md",
+    "strategies-code/Keep it simple.md",
+    "strategies-code/Logs.md",
     "strategies-code",
     "Ray.md",
     "extra/Training Ideas.md",
@@ -193,14 +202,6 @@
     "Dagster.md",
     "Apache Airflow.md",
     "Airflow.md",
-    "Apache Superset.md",
-    "Argo.md",
-    "Amazon Aurora.md",
-    "Apache Avro.md",
-    "Protocol Buffer (Protobuf).md",
-    "Hive Metastore.md",
-    "Unity Catalog.md",
-    "inbox/2024-09-05.md",
     "zz_attachments",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

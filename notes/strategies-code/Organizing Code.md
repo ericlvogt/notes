@@ -9,7 +9,8 @@ For team happiness we should make sure we separate code by team to make sure eac
 Interfaces between teams should be as simple as possible. Reduce the complexity of interfaces between teams since this adds more technical debt and requires more maintenance and communication between teams.
 
 ## By Applications
-**
+*The less spread out the logic the better*
+Locality of code, the less spread out the logic to accomplish a task the better.
 
 ## By Dependencies
 *The less dependencies the better*

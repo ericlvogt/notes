@@ -1,0 +1,1 @@
+State is the source of all evil reduce at all costs. If you add state realize this is technical debt.

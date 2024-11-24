@@ -1,0 +1,1 @@
+Don't pre engineer for functionality you don't need. If you keep things simple when it comes time then it should be easy to change your simple implementation to handle additional functionality. If it is hard, then you haven't simplified your implementation enough.

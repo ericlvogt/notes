@@ -1,0 +1,1 @@
+The less a specific application does the better. This doesn't mean we should split into a bunch of smaller applications. Make sure each app has a concrete scope of responsibilities and keep it as concise as possible to meet the needs of the application.

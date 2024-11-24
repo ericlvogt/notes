@@ -1,0 +1,1 @@
+Don't create a generic Constants file. This balloons so fast to contain way more than you anticipated.
