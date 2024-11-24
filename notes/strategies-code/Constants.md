@@ -1,1 +1,1 @@
-Don't create a generic Constants file. This balloons so fast to contain way more than you anticipated.
+Don't create a generic Constants file. This balloons so fast to contain way more than you anticipated. Instead create constant files specific to your project entities
