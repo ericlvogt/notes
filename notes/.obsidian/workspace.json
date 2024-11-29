@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Groovy.md",
+                "file": "Apache Spark.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Groovy"
+              "title": "Apache Spark"
             }
           },
           {
@@ -245,8 +245,11 @@
   },
   "active": "2127abf74f4f2e10",
   "lastOpenFiles": [
-    "OnLine Analytical Processing (OLAP).md",
+    "Azure Synapse Analytics.md",
+    "Column-oriented Database.md",
+    "Apache Druid.md",
     "Groovy.md",
+    "OnLine Analytical Processing (OLAP).md",
     "Online Transaction Processing (OLTP).md",
     "Online Analytical Transaction Processing (OLAP).md",
     "Gremlin.md",
@@ -268,9 +271,6 @@
     "strategies-code/Interfaces (Contracts).md",
     "strategies-code/Instance vs Static.md",
     "strategies-code/Implicit Dependencies.md",
-    "strategies-code/Feature Flags.md",
-    "strategies-code/Generic Implementations.md",
-    "strategies-code/Exceptions.md",
     "strategies-code/Untitled",
     "strategies-code",
     "zz_attachments",
